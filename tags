@@ -1,0 +1,1209 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.4	//
+compile	/home/anton/coach/admin/compile	1;"	F
+depcomp	/home/anton/coach/admin/depcomp	1;"	F
+ltmain.sh	/home/anton/coach/admin/ltmain.sh	1;"	F
+install-sh	/home/anton/coach/admin/install-sh	1;"	F
+missing	/home/anton/coach/admin/missing	1;"	F
+mkinstalldirs	/home/anton/coach/admin/mkinstalldirs	1;"	F
+cvs.sh	/home/anton/coach/admin/cvs.sh	1;"	F
+call_and_fix_autoconf	/home/anton/coach/admin/cvs.sh	9;"	f
+strip_makefile	/home/anton/coach/admin/cvs.sh	21;"	f
+check_autotool_versions	/home/anton/coach/admin/cvs.sh	28;"	f
+cvs	/home/anton/coach/admin/cvs.sh	85;"	f
+dist	/home/anton/coach/admin/cvs.sh	141;"	f
+subdir_dist	/home/anton/coach/admin/cvs.sh	185;"	f
+configure_in	/home/anton/coach/admin/cvs.sh	194;"	f
+configure_files	/home/anton/coach/admin/cvs.sh	285;"	f
+subdirs	/home/anton/coach/admin/cvs.sh	305;"	f
+cvs_clean	/home/anton/coach/admin/cvs.sh	363;"	f
+package_merge	/home/anton/coach/admin/cvs.sh	374;"	f
+package_messages	/home/anton/coach/admin/cvs.sh	392;"	f
+conf.change.pl	/home/anton/coach/admin/conf.change.pl	1;"	F
+insert_main_loop	/home/anton/coach/admin/conf.change.pl	112;"	s
+insert_main_loop_250	/home/anton/coach/admin/conf.change.pl	122;"	s
+insert_main_loop_213	/home/anton/coach/admin/conf.change.pl	150;"	s
+ylwrap	/home/anton/coach/admin/ylwrap	1;"	F
+cvs-clean.pl	/home/anton/coach/admin/cvs-clean.pl	1;"	F
+rmrf	/home/anton/coach/admin/cvs-clean.pl	15;"	s
+newfiles	/home/anton/coach/admin/cvs-clean.pl	32;"	s
+cvsclean	/home/anton/coach/admin/cvs-clean.pl	39;"	s
+debianrules	/home/anton/coach/admin/debianrules	1;"	F
+detect-autoconf.sh	/home/anton/coach/admin/detect-autoconf.sh	1;"	F
+checkAutoconf	/home/anton/coach/admin/detect-autoconf.sh	14;"	f
+checkAutoheader	/home/anton/coach/admin/detect-autoconf.sh	31;"	f
+checkAutomakeAclocal	/home/anton/coach/admin/detect-autoconf.sh	52;"	f
+checkWhich	/home/anton/coach/admin/detect-autoconf.sh	67;"	f
+client.C	/home/anton/coach/coach/client.C	1;"	F
+sigiomask	/home/anton/coach/coach/client.C	52;"	v
+sigalrmask	/home/anton/coach/coach/client.C	52;"	v
+Mem	/home/anton/coach/coach/client.C	54;"	v
+recvbuf	/home/anton/coach/coach/client.C	56;"	v
+sendbuf	/home/anton/coach/coach/client.C	57;"	v
+sock	/home/anton/coach/coach/client.C	59;"	v
+max_alrs_since_io	/home/anton/coach/coach/client.C	61;"	v
+alrsigs_since_iosig	/home/anton/coach/coach/client.C	62;"	v
+main	/home/anton/coach/coach/client.C	67;"	f
+ConnectToServerLoop	/home/anton/coach/coach/client.C	89;"	f
+send_initialize_message	/home/anton/coach/coach/client.C	135;"	f
+parse_initialize_message	/home/anton/coach/coach/client.C	144;"	f
+set_timer	/home/anton/coach/coach/client.C	177;"	f
+set_timer	/home/anton/coach/coach/client.C	186;"	f
+init_handler	/home/anton/coach/coach/client.C	197;"	f
+wait_for_signals	/home/anton/coach/coach/client.C	236;"	f
+sigio_handler	/home/anton/coach/coach/client.C	245;"	f
+LogPlayerTypes	/home/anton/coach/coach/client.C	298;"	f
+PT	/home/anton/coach/coach/client.C	387;"	s	file:
+PT	/home/anton/coach/coach/client.C	388;"	f	struct:PT
+li	/home/anton/coach/coach/client.C	389;"	m	struct:PT	file:
+type	/home/anton/coach/coach/client.C	390;"	m	struct:PT	file:
+num	/home/anton/coach/coach/client.C	391;"	m	struct:PT	file:
+accel	/home/anton/coach/coach/client.C	392;"	m	struct:PT	file:
+size	/home/anton/coach/coach/client.C	392;"	m	struct:PT	file:
+stamina	/home/anton/coach/coach/client.C	392;"	m	struct:PT	file:
+div	/home/anton/coach/coach/client.C	393;"	m	struct:PT	file:
+operator <	/home/anton/coach/coach/client.C	394;"	f	struct:PT
+CanUse	/home/anton/coach/coach/client.C	396;"	f	struct:PT
+li_less	/home/anton/coach/coach/client.C	398;"	s	file:	inherits:binary_function
+operator ()	/home/anton/coach/coach/client.C	399;"	f	struct:li_less
+size_greater	/home/anton/coach/coach/client.C	401;"	s	file:	inherits:binary_function
+operator ()	/home/anton/coach/coach/client.C	402;"	f	struct:size_greater
+accel_greater	/home/anton/coach/coach/client.C	404;"	s	file:	inherits:binary_function
+operator ()	/home/anton/coach/coach/client.C	405;"	f	struct:accel_greater
+stamina_greater	/home/anton/coach/coach/client.C	407;"	s	file:	inherits:binary_function
+operator ()	/home/anton/coach/coach/client.C	408;"	f	struct:stamina_greater
+div_greater	/home/anton/coach/coach/client.C	410;"	s	file:	inherits:binary_function
+operator ()	/home/anton/coach/coach/client.C	411;"	f	struct:div_greater
+SortByNumber	/home/anton/coach/coach/client.C	414;"	f
+AccelValue	/home/anton/coach/coach/client.C	436;"	f
+SizeValue	/home/anton/coach/coach/client.C	445;"	f
+StaminaValue	/home/anton/coach/coach/client.C	454;"	f
+ChangeSetOfPlayersType	/home/anton/coach/coach/client.C	463;"	f
+IsStrongOpponent	/home/anton/coach/coach/client.C	478;"	f
+SelectHetroPlayers	/home/anton/coach/coach/client.C	499;"	f
+sigalrm_handler	/home/anton/coach/coach/client.C	616;"	f
+PmodeStrings	/home/anton/coach/coach/client.C	630;"	v
+ChangePlayerType	/home/anton/coach/coach/client.C	632;"	f
+ChangeMode	/home/anton/coach/coach/client.C	637;"	f
+CheckBall	/home/anton/coach/coach/client.C	643;"	f
+Ear	/home/anton/coach/coach/client.C	648;"	f
+Eye	/home/anton/coach/coach/client.C	654;"	f
+Look	/home/anton/coach/coach/client.C	660;"	f
+MoveBall	/home/anton/coach/coach/client.C	665;"	f
+MovePlayer	/home/anton/coach/coach/client.C	671;"	f
+Say	/home/anton/coach/coach/client.C	684;"	f
+client.h	/home/anton/coach/coach/client.h	1;"	F
+_CLIENT_H_	/home/anton/coach/coach/client.h	41;"	d
+Mem	/home/anton/coach/coach/client.h	45;"	x
+NOANG	/home/anton/coach/coach/client.h	47;"	d
+wait_for_signals	/home/anton/coach/coach/client.h	49;"	p
+init_handler	/home/anton/coach/coach/client.h	50;"	p
+sigio_handler	/home/anton/coach/coach/client.h	51;"	p
+sigalrm_handler	/home/anton/coach/coach/client.h	52;"	p
+AnalyzeLogLoop	/home/anton/coach/coach/client.h	53;"	p
+ConnectToServerLoop	/home/anton/coach/coach/client.h	54;"	p
+send_initialize_message	/home/anton/coach/coach/client.h	56;"	p
+parse_initialize_message	/home/anton/coach/coach/client.h	57;"	p
+ChangePlayerType	/home/anton/coach/coach/client.h	58;"	p
+ChangeMode	/home/anton/coach/coach/client.h	59;"	p
+CheckBall	/home/anton/coach/coach/client.h	60;"	p
+Ear	/home/anton/coach/coach/client.h	61;"	p
+Eye	/home/anton/coach/coach/client.h	62;"	p
+Look	/home/anton/coach/coach/client.h	63;"	p
+MoveBall	/home/anton/coach/coach/client.h	64;"	p
+MoveBall	/home/anton/coach/coach/client.h	65;"	f
+MovePlayer	/home/anton/coach/coach/client.h	67;"	p
+MovePlayer	/home/anton/coach/coach/client.h	68;"	f
+Say	/home/anton/coach/coach/client.h	70;"	p
+SelectHetroPlayers	/home/anton/coach/coach/client.h	72;"	p
+disconnect	/home/anton/coach/coach/client.h	73;"	p
+data.C	/home/anton/coach/coach/data.C	1;"	F
+SingleDataSummary	/home/anton/coach/coach/data.C	47;"	f	class:SingleDataSummary
+Reset	/home/anton/coach/coach/data.C	53;"	f	class:SingleDataSummary
+AddPoint	/home/anton/coach/coach/data.C	60;"	f	class:SingleDataSummary
+GetMean	/home/anton/coach/coach/data.C	67;"	f	class:SingleDataSummary
+GetVariance	/home/anton/coach/coach/data.C	75;"	f	class:SingleDataSummary
+GetStdDev	/home/anton/coach/coach/data.C	84;"	f	class:SingleDataSummary
+GetNumPoints	/home/anton/coach/coach/data.C	92;"	f	class:SingleDataSummary
+CombineWith	/home/anton/coach/coach/data.C	97;"	f	class:SingleDataSummary
+WriteInfoToFile	/home/anton/coach/coach/data.C	107;"	f	class:SingleDataSummary
+WriteCompactInfoToFile	/home/anton/coach/coach/data.C	118;"	f	class:SingleDataSummary
+ReadInfoFromFile	/home/anton/coach/coach/data.C	129;"	f	class:SingleDataSummary
+ReadCompactInfoFromFile	/home/anton/coach/coach/data.C	155;"	f	class:SingleDataSummary
+data.h	/home/anton/coach/coach/data.h	1;"	F
+_DATA_H_	/home/anton/coach/coach/data.h	42;"	d
+SingleDataSummary	/home/anton/coach/coach/data.h	50;"	c
+SingleDataSummary	/home/anton/coach/coach/data.h	53;"	p	class:SingleDataSummary
+Reset	/home/anton/coach/coach/data.h	55;"	p	class:SingleDataSummary
+AddPoint	/home/anton/coach/coach/data.h	57;"	p	class:SingleDataSummary
+GetMean	/home/anton/coach/coach/data.h	58;"	p	class:SingleDataSummary
+GetVariance	/home/anton/coach/coach/data.h	59;"	p	class:SingleDataSummary
+GetStdDev	/home/anton/coach/coach/data.h	60;"	p	class:SingleDataSummary
+GetNumPoints	/home/anton/coach/coach/data.h	61;"	p	class:SingleDataSummary
+CombineWith	/home/anton/coach/coach/data.h	63;"	p	class:SingleDataSummary
+SetPrecision	/home/anton/coach/coach/data.h	65;"	f	class:SingleDataSummary
+GetPrecision	/home/anton/coach/coach/data.h	68;"	f	class:SingleDataSummary
+WriteInfoToFile	/home/anton/coach/coach/data.h	70;"	p	class:SingleDataSummary
+WriteCompactInfoToFile	/home/anton/coach/coach/data.h	71;"	p	class:SingleDataSummary
+ReadInfoFromFile	/home/anton/coach/coach/data.h	74;"	p	class:SingleDataSummary
+ReadCompactInfoFromFile	/home/anton/coach/coach/data.h	75;"	p	class:SingleDataSummary
+n	/home/anton/coach/coach/data.h	78;"	m	class:SingleDataSummary
+sum	/home/anton/coach/coach/data.h	79;"	m	class:SingleDataSummary
+sum_squares	/home/anton/coach/coach/data.h	80;"	m	class:SingleDataSummary
+precision	/home/anton/coach/coach/data.h	82;"	m	class:SingleDataSummary
+Formations.C	/home/anton/coach/coach/Formations.C	1;"	F
+begin_pos	/home/anton/coach/coach/Formations.C	30;"	m	class:Formations	file:
+num_of_begin_pos	/home/anton/coach/coach/Formations.C	31;"	m	class:Formations	file:
+formations	/home/anton/coach/coach/Formations.C	32;"	m	class:Formations	file:
+LoadData	/home/anton/coach/coach/Formations.C	35;"	f	class:FormationData
+conv_char_to_ptype	/home/anton/coach/coach/Formations.C	63;"	f	class:FormationData
+conv_char_to_pside	/home/anton/coach/coach/Formations.C	83;"	f	class:FormationData
+~Formations	/home/anton/coach/coach/Formations.C	99;"	f	class:Formations
+Formations	/home/anton/coach/coach/Formations.C	104;"	f	class:Formations
+LoadConfigFile	/home/anton/coach/coach/Formations.C	114;"	f	class:Formations
+SetCurrentFormation	/home/anton/coach/coach/Formations.C	163;"	f	class:Formations
+_GetHomePosition	/home/anton/coach/coach/Formations.C	170;"	f	class:Formations
+GetHomePosition	/home/anton/coach/coach/Formations.C	197;"	f	class:Formations
+GetHomePosition	/home/anton/coach/coach/Formations.C	205;"	f	class:Formations
+InitBDPMatrix	/home/anton/coach/coach/Formations.C	213;"	f	class:Formations
+GetBDP	/home/anton/coach/coach/Formations.C	221;"	f	class:Formations
+GetMyGoalieFreeKickHomePos	/home/anton/coach/coach/Formations.C	232;"	f	class:Formations
+GetMyKickInHomePos	/home/anton/coach/coach/Formations.C	241;"	f	class:Formations
+GetCornerKickHomePos	/home/anton/coach/coach/Formations.C	258;"	f	class:Formations
+GetMyGoalieKickHomePos	/home/anton/coach/coach/Formations.C	280;"	f	class:Formations
+GetMyFreeKickHomePos	/home/anton/coach/coach/Formations.C	290;"	f	class:Formations
+GetTheirSetPlayHomePos	/home/anton/coach/coach/Formations.C	299;"	f	class:Formations
+GetTheirGoalieFreeKickHomePos	/home/anton/coach/coach/Formations.C	309;"	f	class:Formations
+GetTheirCornerKickHomePos	/home/anton/coach/coach/Formations.C	313;"	f	class:Formations
+GetTheirKickInHomePos	/home/anton/coach/coach/Formations.C	322;"	f	class:Formations
+GetFormationDash	/home/anton/coach/coach/Formations.C	338;"	f	class:Formations
+GetPlayerNumber	/home/anton/coach/coach/Formations.C	348;"	f	class:Formations
+Formations.h	/home/anton/coach/coach/Formations.h	1;"	F
+FORMATIONS_H	/home/anton/coach/coach/Formations.h	23;"	d
+Ftype	/home/anton/coach/coach/Formations.h	27;"	g
+FT_None	/home/anton/coach/coach/Formations.h	28;"	e	enum:Ftype
+FT_Default	/home/anton/coach/coach/Formations.h	29;"	e	enum:Ftype
+FT_433	/home/anton/coach/coach/Formations.h	30;"	e	enum:Ftype
+FT_433_OFFENSE	/home/anton/coach/coach/Formations.h	31;"	e	enum:Ftype
+FormationData	/home/anton/coach/coach/Formations.h	34;"	s
+pos	/home/anton/coach/coach/Formations.h	35;"	m	struct:FormationData
+attr_x	/home/anton/coach/coach/Formations.h	36;"	m	struct:FormationData
+attr_y	/home/anton/coach/coach/Formations.h	37;"	m	struct:FormationData
+max_x	/home/anton/coach/coach/Formations.h	38;"	m	struct:FormationData
+min_x	/home/anton/coach/coach/Formations.h	39;"	m	struct:FormationData
+types	/home/anton/coach/coach/Formations.h	40;"	m	struct:FormationData
+sides	/home/anton/coach/coach/Formations.h	41;"	m	struct:FormationData
+formation	/home/anton/coach/coach/Formations.h	42;"	m	struct:FormationData
+FormationData	/home/anton/coach/coach/Formations.h	44;"	f	struct:FormationData
+LoadData	/home/anton/coach/coach/Formations.h	45;"	p	struct:FormationData
+conv_char_to_ptype	/home/anton/coach/coach/Formations.h	47;"	p	struct:FormationData
+conv_char_to_pside	/home/anton/coach/coach/Formations.h	48;"	p	struct:FormationData
+Formations	/home/anton/coach/coach/Formations.h	52;"	c	inherits:PositionInfo
+Formations	/home/anton/coach/coach/Formations.h	54;"	p	class:Formations
+~Formations	/home/anton/coach/coach/Formations.h	55;"	p	class:Formations
+LoadConfigFile	/home/anton/coach/coach/Formations.h	56;"	p	class:Formations
+Iterator	/home/anton/coach/coach/Formations.h	58;"	t	class:Formations
+SetCurrentFormation	/home/anton/coach/coach/Formations.h	60;"	p	class:Formations
+GetHomePosition	/home/anton/coach/coach/Formations.h	62;"	p	class:Formations
+GetHomePosition	/home/anton/coach/coach/Formations.h	63;"	p	class:Formations
+GetPlayerType	/home/anton/coach/coach/Formations.h	65;"	f	class:Formations
+GetPlayerSide	/home/anton/coach/coach/Formations.h	66;"	f	class:Formations
+GetFormationDash	/home/anton/coach/coach/Formations.h	67;"	p	class:Formations
+GetPlayerNumber	/home/anton/coach/coach/Formations.h	69;"	p	class:Formations
+begin	/home/anton/coach/coach/Formations.h	70;"	f	class:Formations
+end	/home/anton/coach/coach/Formations.h	71;"	f	class:Formations
+num_of_formations	/home/anton/coach/coach/Formations.h	73;"	m	class:Formations
+bp	/home/anton/coach/coach/Formations.h	75;"	t	class:Formations
+GetMyGoalieFreeKickHomePos	/home/anton/coach/coach/Formations.h	77;"	p	class:Formations
+GetMyKickInHomePos	/home/anton/coach/coach/Formations.h	78;"	p	class:Formations
+GetCornerKickHomePos	/home/anton/coach/coach/Formations.h	79;"	p	class:Formations
+GetMyGoalieKickHomePos	/home/anton/coach/coach/Formations.h	80;"	p	class:Formations
+GetMyFreeKickHomePos	/home/anton/coach/coach/Formations.h	81;"	p	class:Formations
+GetTheirSetPlayHomePos	/home/anton/coach/coach/Formations.h	83;"	p	class:Formations
+GetTheirGoalieFreeKickHomePos	/home/anton/coach/coach/Formations.h	84;"	p	class:Formations
+GetTheirCornerKickHomePos	/home/anton/coach/coach/Formations.h	85;"	p	class:Formations
+GetTheirKickInHomePos	/home/anton/coach/coach/Formations.h	86;"	p	class:Formations
+important_action	/home/anton/coach/coach/Formations.h	88;"	m	class:Formations
+InitBDPMatrix	/home/anton/coach/coach/Formations.h	90;"	p	class:Formations
+GetBDP	/home/anton/coach/coach/Formations.h	91;"	p	class:Formations
+_GetHomePosition	/home/anton/coach/coach/Formations.h	92;"	p	class:Formations
+begin_pos	/home/anton/coach/coach/Formations.h	94;"	m	class:Formations
+num_of_begin_pos	/home/anton/coach/coach/Formations.h	95;"	m	class:Formations
+NUM_HEIGHT_BLOCKS	/home/anton/coach/coach/Formations.h	97;"	m	class:Formations
+NUM_WIDTH_BLOCKS	/home/anton/coach/coach/Formations.h	98;"	m	class:Formations
+current_formation	/home/anton/coach/coach/Formations.h	99;"	m	class:Formations
+formations	/home/anton/coach/coach/Formations.h	100;"	m	class:Formations
+BDPMatrix	/home/anton/coach/coach/Formations.h	101;"	m	class:Formations
+HomePos	/home/anton/coach/coach/Formations.h	102;"	m	class:Formations
+updateHomePos	/home/anton/coach/coach/Formations.h	103;"	m	class:Formations
+geometry.C	/home/anton/coach/coach/geometry.C	1;"	F
+DebugGeom	/home/anton/coach/coach/geometry.C	41;"	d	file:
+DebugGeom	/home/anton/coach/coach/geometry.C	43;"	d	file:
+Rectangle	/home/anton/coach/coach/geometry.C	54;"	f	class:Rectangle
+Rectangle	/home/anton/coach/coach/geometry.C	61;"	f	class:Rectangle
+Rectangle	/home/anton/coach/coach/geometry.C	72;"	f	class:Rectangle
+IsWithin	/home/anton/coach/coach/geometry.C	82;"	f	class:Rectangle
+AdjustToWithin	/home/anton/coach/coach/geometry.C	89;"	f	class:Rectangle
+GetEdge	/home/anton/coach/coach/geometry.C	103;"	f	class:Rectangle
+GetPoint	/home/anton/coach/coach/geometry.C	117;"	f	class:Rectangle
+nearestHEdge	/home/anton/coach/coach/geometry.C	131;"	f	class:Rectangle
+nearestVEdge	/home/anton/coach/coach/geometry.C	144;"	f	class:Rectangle
+nearestEdge	/home/anton/coach/coach/geometry.C	157;"	f	class:Rectangle
+nearestHEdgeLine	/home/anton/coach/coach/geometry.C	167;"	f	class:Rectangle
+nearestVEdgeLine	/home/anton/coach/coach/geometry.C	175;"	f	class:Rectangle
+nearestEdgeLine	/home/anton/coach/coach/geometry.C	183;"	f	class:Rectangle
+DistanceToEdge	/home/anton/coach/coach/geometry.C	194;"	f	class:Rectangle
+random	/home/anton/coach/coach/geometry.C	206;"	f	class:Rectangle
+expand	/home/anton/coach/coach/geometry.C	218;"	f	class:Rectangle
+Print	/home/anton/coach/coach/geometry.C	225;"	f	class:Rectangle
+RayIntersection	/home/anton/coach/coach/geometry.C	232;"	f	class:Rectangle
+Line	/home/anton/coach/coach/geometry.C	274;"	f	class:Line
+LineFromTwoPoints	/home/anton/coach/coach/geometry.C	283;"	f	class:Line
+LineFromRay	/home/anton/coach/coach/geometry.C	301;"	f	class:Line
+PointOnLine	/home/anton/coach/coach/geometry.C	310;"	f	class:Line
+dist	/home/anton/coach/coach/geometry.C	317;"	f	class:Line
+dist2	/home/anton/coach/coach/geometry.C	324;"	f	class:Line
+angle	/home/anton/coach/coach/geometry.C	331;"	f	class:Line
+ProjectPointUsingCircle	/home/anton/coach/coach/geometry.C	338;"	f	class:Line
+get_y	/home/anton/coach/coach/geometry.C	389;"	f	class:Line
+get_x	/home/anton/coach/coach/geometry.C	400;"	f	class:Line
+InBetween	/home/anton/coach/coach/geometry.C	411;"	f	class:Line
+GetClosestPtInBetween	/home/anton/coach/coach/geometry.C	424;"	f	class:Line
+intersection	/home/anton/coach/coach/geometry.C	440;"	f	class:Line
+RayIntersection	/home/anton/coach/coach/geometry.C	468;"	f	class:Line
+IsPtCloserToPtOnLine	/home/anton/coach/coach/geometry.C	483;"	f	class:Line
+HalfPlaneTest	/home/anton/coach/coach/geometry.C	498;"	f	class:Line
+SameSlope	/home/anton/coach/coach/geometry.C	505;"	f	class:Line
+Ray	/home/anton/coach/coach/geometry.C	518;"	f	class:Ray
+OnRay	/home/anton/coach/coach/geometry.C	529;"	f	class:Ray
+InRightDir	/home/anton/coach/coach/geometry.C	535;"	f	class:Ray
+InRightDir	/home/anton/coach/coach/geometry.C	540;"	f	class:Ray
+InOppositeDir	/home/anton/coach/coach/geometry.C	544;"	f	class:Ray
+InOppositeDir	/home/anton/coach/coach/geometry.C	548;"	f	class:Ray
+intersection	/home/anton/coach/coach/geometry.C	552;"	f	class:Ray
+Normalize	/home/anton/coach/coach/geometry.C	556;"	f	class:Ray
+intersection	/home/anton/coach/coach/geometry.C	562;"	f	class:Ray
+CircleIntersect	/home/anton/coach/coach/geometry.C	579;"	f	class:Ray
+RectangleIntersection	/home/anton/coach/coach/geometry.C	625;"	f	class:Ray
+GetClosestPoint	/home/anton/coach/coach/geometry.C	629;"	f	class:Ray
+RayCircleIntersect	/home/anton/coach/coach/geometry.C	652;"	f
+QuadraticFormula	/home/anton/coach/coach/geometry.C	705;"	f
+LineCircleIntersect	/home/anton/coach/coach/geometry.C	737;"	f
+AdjustPtToRectOnLine	/home/anton/coach/coach/geometry.C	764;"	f
+InBetween	/home/anton/coach/coach/geometry.C	785;"	f
+PointInBetween	/home/anton/coach/coach/geometry.C	793;"	f
+AngleBisect	/home/anton/coach/coach/geometry.C	803;"	f
+GetClosestPtInBetween	/home/anton/coach/coach/geometry.C	813;"	f
+IsPointInCone	/home/anton/coach/coach/geometry.C	822;"	f
+geometry.h	/home/anton/coach/coach/geometry.h	1;"	F
+_GEOMETRY_	/home/anton/coach/coach/geometry.h	40;"	d
+Vector	/home/anton/coach/coach/geometry.h	52;"	c
+x	/home/anton/coach/coach/geometry.h	54;"	m	class:Vector
+y	/home/anton/coach/coach/geometry.h	55;"	m	class:Vector
+Vector	/home/anton/coach/coach/geometry.h	57;"	f	class:Vector
+operator -	/home/anton/coach/coach/geometry.h	58;"	f	class:Vector
+operator +	/home/anton/coach/coach/geometry.h	59;"	f	class:Vector
+operator -	/home/anton/coach/coach/geometry.h	60;"	f	class:Vector
+operator *	/home/anton/coach/coach/geometry.h	61;"	f	class:Vector
+operator *	/home/anton/coach/coach/geometry.h	62;"	f	class:Vector
+operator /	/home/anton/coach/coach/geometry.h	63;"	f	class:Vector
+operator /	/home/anton/coach/coach/geometry.h	64;"	f	class:Vector
+operator =	/home/anton/coach/coach/geometry.h	65;"	f	class:Vector
+operator +=	/home/anton/coach/coach/geometry.h	66;"	f	class:Vector
+operator +=	/home/anton/coach/coach/geometry.h	67;"	f	class:Vector
+operator -=	/home/anton/coach/coach/geometry.h	68;"	f	class:Vector
+operator -=	/home/anton/coach/coach/geometry.h	69;"	f	class:Vector
+operator *=	/home/anton/coach/coach/geometry.h	70;"	f	class:Vector
+operator /=	/home/anton/coach/coach/geometry.h	71;"	f	class:Vector
+operator !=	/home/anton/coach/coach/geometry.h	72;"	f	class:Vector
+operator !=	/home/anton/coach/coach/geometry.h	73;"	f	class:Vector
+operator ==	/home/anton/coach/coach/geometry.h	74;"	f	class:Vector
+operator <<	/home/anton/coach/coach/geometry.h	75;"	f	class:Vector
+Print	/home/anton/coach/coach/geometry.h	76;"	f	class:Vector
+ins	/home/anton/coach/coach/geometry.h	77;"	f	class:Vector
+mod	/home/anton/coach/coach/geometry.h	78;"	f	class:Vector
+mod2	/home/anton/coach/coach/geometry.h	79;"	f	class:Vector
+dist	/home/anton/coach/coach/geometry.h	80;"	f	class:Vector
+dist2	/home/anton/coach/coach/geometry.h	81;"	f	class:Vector
+Normalize	/home/anton/coach/coach/geometry.h	82;"	f	class:Vector
+SetLength	/home/anton/coach/coach/geometry.h	83;"	f	class:Vector
+dir	/home/anton/coach/coach/geometry.h	84;"	f	class:Vector
+rotate	/home/anton/coach/coach/geometry.h	85;"	f	class:Vector
+Global2Relative	/home/anton/coach/coach/geometry.h	88;"	p	class:Vector
+Relative2Global	/home/anton/coach/coach/geometry.h	89;"	p	class:Vector
+InFrontOf	/home/anton/coach/coach/geometry.h	90;"	f	class:Vector
+InFrontOf	/home/anton/coach/coach/geometry.h	91;"	f	class:Vector
+Behind	/home/anton/coach/coach/geometry.h	92;"	f	class:Vector
+Behind	/home/anton/coach/coach/geometry.h	93;"	f	class:Vector
+ApproxEqual	/home/anton/coach/coach/geometry.h	95;"	f	class:Vector
+WeightedAverage	/home/anton/coach/coach/geometry.h	98;"	f	class:Vector
+Polar2Vector	/home/anton/coach/coach/geometry.h	102;"	f
+Global2Relative	/home/anton/coach/coach/geometry.h	106;"	f	class:Vector
+Relative2Global	/home/anton/coach/coach/geometry.h	111;"	f	class:Vector
+operator *	/home/anton/coach/coach/geometry.h	116;"	f
+Ray	/home/anton/coach/coach/geometry.h	130;"	c
+Ray	/home/anton/coach/coach/geometry.h	133;"	f	class:Ray
+Ray	/home/anton/coach/coach/geometry.h	134;"	p	class:Ray
+Ray	/home/anton/coach/coach/geometry.h	135;"	f	class:Ray
+SetValues	/home/anton/coach/coach/geometry.h	137;"	f	class:Ray
+SetValues	/home/anton/coach/coach/geometry.h	138;"	f	class:Ray
+OnRay	/home/anton/coach/coach/geometry.h	140;"	p	class:Ray
+InRightDir	/home/anton/coach/coach/geometry.h	141;"	p	class:Ray
+InRightDir	/home/anton/coach/coach/geometry.h	142;"	p	class:Ray
+InOppositeDir	/home/anton/coach/coach/geometry.h	143;"	p	class:Ray
+InOppositeDir	/home/anton/coach/coach/geometry.h	144;"	p	class:Ray
+intersection	/home/anton/coach/coach/geometry.h	146;"	p	class:Ray
+intersection	/home/anton/coach/coach/geometry.h	147;"	p	class:Ray
+CircleIntersect	/home/anton/coach/coach/geometry.h	149;"	p	class:Ray
+GetClosestPoint	/home/anton/coach/coach/geometry.h	150;"	p	class:Ray
+RectangleIntersection	/home/anton/coach/coach/geometry.h	151;"	p	class:Ray
+GetPoint	/home/anton/coach/coach/geometry.h	152;"	f	class:Ray
+Normalize	/home/anton/coach/coach/geometry.h	154;"	p	class:Ray
+Origin	/home/anton/coach/coach/geometry.h	155;"	f	class:Ray
+origin	/home/anton/coach/coach/geometry.h	159;"	m	class:Ray
+direction	/home/anton/coach/coach/geometry.h	160;"	m	class:Ray
+Line	/home/anton/coach/coach/geometry.h	170;"	c
+Line	/home/anton/coach/coach/geometry.h	172;"	p	class:Line
+Line	/home/anton/coach/coach/geometry.h	173;"	f	class:Line
+LineFromTwoPoints	/home/anton/coach/coach/geometry.h	176;"	p	class:Line
+LineFromRay	/home/anton/coach/coach/geometry.h	177;"	p	class:Line
+LineFromRay	/home/anton/coach/coach/geometry.h	178;"	f	class:Line
+LineFromRay	/home/anton/coach/coach/geometry.h	180;"	f	class:Line
+PointOnLine	/home/anton/coach/coach/geometry.h	183;"	p	class:Line
+PointOnLine	/home/anton/coach/coach/geometry.h	184;"	f	class:Line
+dist	/home/anton/coach/coach/geometry.h	186;"	p	class:Line
+dist2	/home/anton/coach/coach/geometry.h	187;"	p	class:Line
+angle	/home/anton/coach/coach/geometry.h	188;"	p	class:Line
+InBetween	/home/anton/coach/coach/geometry.h	190;"	p	class:Line
+GetClosestPtInBetween	/home/anton/coach/coach/geometry.h	191;"	p	class:Line
+OnLine	/home/anton/coach/coach/geometry.h	195;"	f	class:Line
+ProjectPointUsingCircle	/home/anton/coach/coach/geometry.h	198;"	p	class:Line
+ProjectPoint	/home/anton/coach/coach/geometry.h	199;"	f	class:Line
+get_y	/home/anton/coach/coach/geometry.h	201;"	p	class:Line
+get_x	/home/anton/coach/coach/geometry.h	202;"	p	class:Line
+intersection	/home/anton/coach/coach/geometry.h	203;"	p	class:Line
+perpendicular	/home/anton/coach/coach/geometry.h	204;"	f	class:Line
+RayIntersection	/home/anton/coach/coach/geometry.h	206;"	p	class:Line
+shift_y	/home/anton/coach/coach/geometry.h	208;"	f	class:Line
+shift_x	/home/anton/coach/coach/geometry.h	210;"	f	class:Line
+IsPtCloserToPtOnLine	/home/anton/coach/coach/geometry.h	215;"	p	class:Line
+HalfPlaneTest	/home/anton/coach/coach/geometry.h	217;"	p	class:Line
+SameSlope	/home/anton/coach/coach/geometry.h	218;"	p	class:Line
+operator <<	/home/anton/coach/coach/geometry.h	220;"	f	class:Line
+Print	/home/anton/coach/coach/geometry.h	222;"	f	class:Line
+A	/home/anton/coach/coach/geometry.h	225;"	m	class:Line
+B	/home/anton/coach/coach/geometry.h	225;"	m	class:Line
+C	/home/anton/coach/coach/geometry.h	225;"	m	class:Line
+LineFromTwoPoints	/home/anton/coach/coach/geometry.h	229;"	f
+LineFromRay	/home/anton/coach/coach/geometry.h	231;"	f
+LineFromRay	/home/anton/coach/coach/geometry.h	233;"	f
+LineFromRay	/home/anton/coach/coach/geometry.h	235;"	f
+Rectangle	/home/anton/coach/coach/geometry.h	248;"	c
+Rectangle	/home/anton/coach/coach/geometry.h	251;"	p	class:Rectangle
+Rectangle	/home/anton/coach/coach/geometry.h	252;"	p	class:Rectangle
+Rectangle	/home/anton/coach/coach/geometry.h	254;"	p	class:Rectangle
+operator ==	/home/anton/coach/coach/geometry.h	256;"	f	class:Rectangle
+TopY	/home/anton/coach/coach/geometry.h	260;"	f	class:Rectangle
+BottomY	/home/anton/coach/coach/geometry.h	261;"	f	class:Rectangle
+RightX	/home/anton/coach/coach/geometry.h	262;"	f	class:Rectangle
+LeftX	/home/anton/coach/coach/geometry.h	263;"	f	class:Rectangle
+TopLeftCorner	/home/anton/coach/coach/geometry.h	265;"	f	class:Rectangle
+TopRightCorner	/home/anton/coach/coach/geometry.h	266;"	f	class:Rectangle
+BottomLeftCorner	/home/anton/coach/coach/geometry.h	267;"	f	class:Rectangle
+BottomRightCorner	/home/anton/coach/coach/geometry.h	268;"	f	class:Rectangle
+LeftEdge	/home/anton/coach/coach/geometry.h	270;"	f	class:Rectangle
+RightEdge	/home/anton/coach/coach/geometry.h	271;"	f	class:Rectangle
+TopEdge	/home/anton/coach/coach/geometry.h	272;"	f	class:Rectangle
+BottomEdge	/home/anton/coach/coach/geometry.h	273;"	f	class:Rectangle
+GetEdge	/home/anton/coach/coach/geometry.h	275;"	p	class:Rectangle
+GetPoint	/home/anton/coach/coach/geometry.h	276;"	p	class:Rectangle
+Width	/home/anton/coach/coach/geometry.h	278;"	f	class:Rectangle
+Height	/home/anton/coach/coach/geometry.h	279;"	f	class:Rectangle
+Center	/home/anton/coach/coach/geometry.h	281;"	f	class:Rectangle
+IsWithin	/home/anton/coach/coach/geometry.h	283;"	p	class:Rectangle
+nearestHEdge	/home/anton/coach/coach/geometry.h	284;"	p	class:Rectangle
+nearestVEdge	/home/anton/coach/coach/geometry.h	285;"	p	class:Rectangle
+nearestEdge	/home/anton/coach/coach/geometry.h	286;"	p	class:Rectangle
+DistanceToEdge	/home/anton/coach/coach/geometry.h	288;"	p	class:Rectangle
+AdjustToWithin	/home/anton/coach/coach/geometry.h	289;"	p	class:Rectangle
+nearestHEdgeLine	/home/anton/coach/coach/geometry.h	291;"	p	class:Rectangle
+nearestVEdgeLine	/home/anton/coach/coach/geometry.h	292;"	p	class:Rectangle
+nearestEdgeLine	/home/anton/coach/coach/geometry.h	293;"	p	class:Rectangle
+random	/home/anton/coach/coach/geometry.h	295;"	p	class:Rectangle
+shrink	/home/anton/coach/coach/geometry.h	297;"	f	class:Rectangle
+expand	/home/anton/coach/coach/geometry.h	299;"	p	class:Rectangle
+expandLeft	/home/anton/coach/coach/geometry.h	301;"	f	class:Rectangle
+expandRight	/home/anton/coach/coach/geometry.h	303;"	f	class:Rectangle
+expandTop	/home/anton/coach/coach/geometry.h	305;"	f	class:Rectangle
+expandBottom	/home/anton/coach/coach/geometry.h	307;"	f	class:Rectangle
+shrinkLeft	/home/anton/coach/coach/geometry.h	309;"	f	class:Rectangle
+shrinkRight	/home/anton/coach/coach/geometry.h	311;"	f	class:Rectangle
+shrinkTop	/home/anton/coach/coach/geometry.h	313;"	f	class:Rectangle
+shrinkBottom	/home/anton/coach/coach/geometry.h	315;"	f	class:Rectangle
+operator <<	/home/anton/coach/coach/geometry.h	318;"	f	class:Rectangle
+Print	/home/anton/coach/coach/geometry.h	321;"	p	class:Rectangle
+RayIntersection	/home/anton/coach/coach/geometry.h	323;"	p	class:Rectangle
+left_x	/home/anton/coach/coach/geometry.h	326;"	m	class:Rectangle
+right_x	/home/anton/coach/coach/geometry.h	327;"	m	class:Rectangle
+top_y	/home/anton/coach/coach/geometry.h	328;"	m	class:Rectangle
+bottom_y	/home/anton/coach/coach/geometry.h	329;"	m	class:Rectangle
+QuadraticFormula	/home/anton/coach/coach/geometry.h	342;"	p
+RayCircleIntersect	/home/anton/coach/coach/geometry.h	344;"	f
+LineCircleIntersect	/home/anton/coach/coach/geometry.h	349;"	p
+AdjustPtToRectOnLine	/home/anton/coach/coach/geometry.h	352;"	p
+InBetween	/home/anton/coach/coach/geometry.h	354;"	p
+PointInBetween	/home/anton/coach/coach/geometry.h	356;"	p
+AngleBisect	/home/anton/coach/coach/geometry.h	358;"	p
+GetClosestPtInBetween	/home/anton/coach/coach/geometry.h	360;"	p
+IsPointInCone	/home/anton/coach/coach/geometry.h	362;"	p
+logfile.C	/home/anton/coach/coach/logfile.C	1;"	F
+SEEK_SET	/home/anton/coach/coach/logfile.C	65;"	d	file:
+DebugLog	/home/anton/coach/coach/logfile.C	69;"	d	file:
+DebugLog	/home/anton/coach/coach/logfile.C	71;"	d	file:
+OpenLogFileForRead	/home/anton/coach/coach/logfile.C	75;"	f
+ReadLog	/home/anton/coach/coach/logfile.C	114;"	f
+ConvertPosTByteOrder	/home/anton/coach/coach/logfile.C	180;"	f
+IncorporateDispInfo	/home/anton/coach/coach/logfile.C	194;"	f
+logfile.h	/home/anton/coach/coach/logfile.h	1;"	F
+LOGFILES_H_	/home/anton/coach/coach/logfile.h	54;"	d
+RecVersion	/home/anton/coach/coach/logfile.h	60;"	g
+REC_NONE	/home/anton/coach/coach/logfile.h	61;"	e	enum:RecVersion
+REC_OLD_VERSION	/home/anton/coach/coach/logfile.h	62;"	e	enum:RecVersion
+REC_VERSION_2	/home/anton/coach/coach/logfile.h	63;"	e	enum:RecVersion
+OpenLogFileForRead	/home/anton/coach/coach/logfile.h	66;"	p
+ReadLog	/home/anton/coach/coach/logfile.h	67;"	p
+IncorporateDispInfo	/home/anton/coach/coach/logfile.h	68;"	p
+MemOption.C	/home/anton/coach/coach/MemOption.C	1;"	F
+Log	/home/anton/coach/coach/MemOption.C	43;"	f	class:HPlayerType
+~OptionInfo	/home/anton/coach/coach/MemOption.C	57;"	f	class:OptionInfo
+OptionInfo	/home/anton/coach/coach/MemOption.C	61;"	f	class:OptionInfo
+GetOptions	/home/anton/coach/coach/MemOption.C	308;"	f	class:OptionInfo
+GetOptions	/home/anton/coach/coach/MemOption.C	476;"	f	class:OptionInfo
+ParseParamsFromServer	/home/anton/coach/coach/MemOption.C	503;"	f	class:OptionInfo
+Parse_Server_Param_message	/home/anton/coach/coach/MemOption.C	555;"	f	class:OptionInfo
+Parse_Player_Param_message	/home/anton/coach/coach/MemOption.C	565;"	f	class:OptionInfo
+Parse_Player_Type_message	/home/anton/coach/coach/MemOption.C	596;"	f	class:OptionInfo
+MemOption.h	/home/anton/coach/coach/MemOption.h	1;"	F
+_OPTIONS_H_	/home/anton/coach/coach/MemOption.h	38;"	d
+option_t	/home/anton/coach/coach/MemOption.h	43;"	s
+optname	/home/anton/coach/coach/MemOption.h	44;"	m	struct:option_t
+vptr	/home/anton/coach/coach/MemOption.h	45;"	m	struct:option_t
+vsize	/home/anton/coach/coach/MemOption.h	46;"	m	struct:option_t
+InputType	/home/anton/coach/coach/MemOption.h	49;"	g
+V_INT	/home/anton/coach/coach/MemOption.h	50;"	e	enum:InputType
+V_FLOAT	/home/anton/coach/coach/MemOption.h	51;"	e	enum:InputType
+V_BOOL	/home/anton/coach/coach/MemOption.h	52;"	e	enum:InputType
+V_STRING	/home/anton/coach/coach/MemOption.h	53;"	e	enum:InputType
+V_ONOFF	/home/anton/coach/coach/MemOption.h	54;"	e	enum:InputType
+V_NONE	/home/anton/coach/coach/MemOption.h	55;"	e	enum:InputType
+PROGRAM_NAME	/home/anton/coach/coach/MemOption.h	58;"	d
+MAX_TEAMNAME_LEN	/home/anton/coach/coach/MemOption.h	61;"	d
+MAX_HOST_LEN	/home/anton/coach/coach/MemOption.h	62;"	d
+MAX_FILE_LEN	/home/anton/coach/coach/MemOption.h	63;"	d
+MAX_FP_LEN	/home/anton/coach/coach/MemOption.h	64;"	d
+MAX_TREE_STEM_LEN	/home/anton/coach/coach/MemOption.h	65;"	d
+MAX_ADVCLASS_NAME_LEN	/home/anton/coach/coach/MemOption.h	66;"	d
+HPlayerType	/home/anton/coach/coach/MemOption.h	70;"	c
+HPlayerType	/home/anton/coach/coach/MemOption.h	72;"	f	class:HPlayerType
+Initialize	/home/anton/coach/coach/MemOption.h	74;"	f	class:HPlayerType
+Log	/home/anton/coach/coach/MemOption.h	87;"	p	class:HPlayerType
+GetPlayerSpeedMax	/home/anton/coach/coach/MemOption.h	88;"	f	class:HPlayerType
+GetStaminaIncMax	/home/anton/coach/coach/MemOption.h	89;"	f	class:HPlayerType
+GetPlayerDecay	/home/anton/coach/coach/MemOption.h	90;"	f	class:HPlayerType
+GetInertiaMoment	/home/anton/coach/coach/MemOption.h	91;"	f	class:HPlayerType
+GetDashPowerRate	/home/anton/coach/coach/MemOption.h	92;"	f	class:HPlayerType
+GetPlayerSize	/home/anton/coach/coach/MemOption.h	93;"	f	class:HPlayerType
+GetKickableMargin	/home/anton/coach/coach/MemOption.h	94;"	f	class:HPlayerType
+GetKickRand	/home/anton/coach/coach/MemOption.h	95;"	f	class:HPlayerType
+GetExtraStamina	/home/anton/coach/coach/MemOption.h	96;"	f	class:HPlayerType
+GetEffortMax	/home/anton/coach/coach/MemOption.h	97;"	f	class:HPlayerType
+GetEffortMin	/home/anton/coach/coach/MemOption.h	98;"	f	class:HPlayerType
+player_speed_max	/home/anton/coach/coach/MemOption.h	101;"	m	class:HPlayerType
+stamina_inc_max	/home/anton/coach/coach/MemOption.h	102;"	m	class:HPlayerType
+player_decay	/home/anton/coach/coach/MemOption.h	103;"	m	class:HPlayerType
+inertia_moment	/home/anton/coach/coach/MemOption.h	104;"	m	class:HPlayerType
+dash_power_rate	/home/anton/coach/coach/MemOption.h	105;"	m	class:HPlayerType
+player_size	/home/anton/coach/coach/MemOption.h	106;"	m	class:HPlayerType
+kickable_margin	/home/anton/coach/coach/MemOption.h	107;"	m	class:HPlayerType
+kick_rand	/home/anton/coach/coach/MemOption.h	108;"	m	class:HPlayerType
+extra_stamina	/home/anton/coach/coach/MemOption.h	109;"	m	class:HPlayerType
+effort_max	/home/anton/coach/coach/MemOption.h	110;"	m	class:HPlayerType
+effort_min	/home/anton/coach/coach/MemOption.h	111;"	m	class:HPlayerType
+OptionInfo	/home/anton/coach/coach/MemOption.h	114;"	c
+OptionInfo	/home/anton/coach/coach/MemOption.h	116;"	p	class:OptionInfo
+~OptionInfo	/home/anton/coach/coach/MemOption.h	117;"	p	class:OptionInfo
+GetOptions	/home/anton/coach/coach/MemOption.h	118;"	p	class:OptionInfo
+GetOptions	/home/anton/coach/coach/MemOption.h	119;"	p	class:OptionInfo
+ParseParamsFromServer	/home/anton/coach/coach/MemOption.h	121;"	p	class:OptionInfo
+Parse_Server_Param_message	/home/anton/coach/coach/MemOption.h	122;"	p	class:OptionInfo
+Parse_Player_Param_message	/home/anton/coach/coach/MemOption.h	123;"	p	class:OptionInfo
+Parse_Player_Type_message	/home/anton/coach/coach/MemOption.h	124;"	p	class:OptionInfo
+CP_alarm_interval	/home/anton/coach/coach/MemOption.h	127;"	m	class:OptionInfo
+CP_max_cycles_since_io	/home/anton/coach/coach/MemOption.h	128;"	m	class:OptionInfo
+CP_team_name	/home/anton/coach/coach/MemOption.h	130;"	m	class:OptionInfo
+CP_coach_setplays	/home/anton/coach/coach/MemOption.h	132;"	m	class:OptionInfo
+CP_analyze_log	/home/anton/coach/coach/MemOption.h	135;"	m	class:OptionInfo
+MP_cycles_to_store	/home/anton/coach/coach/MemOption.h	137;"	m	class:OptionInfo
+MP_save_log	/home/anton/coach/coach/MemOption.h	138;"	m	class:OptionInfo
+MP_left_team_name	/home/anton/coach/coach/MemOption.h	139;"	m	class:OptionInfo
+MP_right_team_name	/home/anton/coach/coach/MemOption.h	140;"	m	class:OptionInfo
+SP_pitch_length	/home/anton/coach/coach/MemOption.h	143;"	m	class:OptionInfo
+SP_pitch_width	/home/anton/coach/coach/MemOption.h	144;"	m	class:OptionInfo
+SP_pitch_margin	/home/anton/coach/coach/MemOption.h	145;"	m	class:OptionInfo
+SP_penalty_area_length	/home/anton/coach/coach/MemOption.h	146;"	m	class:OptionInfo
+SP_penalty_area_width	/home/anton/coach/coach/MemOption.h	147;"	m	class:OptionInfo
+SP_goal_area_length	/home/anton/coach/coach/MemOption.h	148;"	m	class:OptionInfo
+SP_goal_area_width	/home/anton/coach/coach/MemOption.h	149;"	m	class:OptionInfo
+SP_penalty_spot_dist	/home/anton/coach/coach/MemOption.h	150;"	m	class:OptionInfo
+SP_corner_arc_r	/home/anton/coach/coach/MemOption.h	151;"	m	class:OptionInfo
+SP_free_kick_buffer	/home/anton/coach/coach/MemOption.h	152;"	m	class:OptionInfo
+SP_after_goal_wait	/home/anton/coach/coach/MemOption.h	153;"	m	class:OptionInfo
+SP_feel_distance	/home/anton/coach/coach/MemOption.h	154;"	m	class:OptionInfo
+SP_num_lines	/home/anton/coach/coach/MemOption.h	155;"	m	class:OptionInfo
+SP_num_markers	/home/anton/coach/coach/MemOption.h	156;"	m	class:OptionInfo
+SP_unum_far_length	/home/anton/coach/coach/MemOption.h	157;"	m	class:OptionInfo
+SP_unum_too_far_length	/home/anton/coach/coach/MemOption.h	158;"	m	class:OptionInfo
+SP_team_far_length	/home/anton/coach/coach/MemOption.h	159;"	m	class:OptionInfo
+SP_team_too_far_length	/home/anton/coach/coach/MemOption.h	160;"	m	class:OptionInfo
+SP_version	/home/anton/coach/coach/MemOption.h	162;"	m	class:OptionInfo
+SP_team_size	/home/anton/coach/coach/MemOption.h	163;"	m	class:OptionInfo
+SP_half	/home/anton/coach/coach/MemOption.h	164;"	m	class:OptionInfo
+SP_host	/home/anton/coach/coach/MemOption.h	165;"	m	class:OptionInfo
+SP_goal_width	/home/anton/coach/coach/MemOption.h	166;"	m	class:OptionInfo
+SP_player_size	/home/anton/coach/coach/MemOption.h	167;"	m	class:OptionInfo
+SP_player_decay	/home/anton/coach/coach/MemOption.h	168;"	m	class:OptionInfo
+SP_player_rand	/home/anton/coach/coach/MemOption.h	169;"	m	class:OptionInfo
+SP_player_weight	/home/anton/coach/coach/MemOption.h	170;"	m	class:OptionInfo
+SP_player_speed_max	/home/anton/coach/coach/MemOption.h	171;"	m	class:OptionInfo
+SP_stamina_max	/home/anton/coach/coach/MemOption.h	172;"	m	class:OptionInfo
+SP_stamina_inc	/home/anton/coach/coach/MemOption.h	173;"	m	class:OptionInfo
+SP_recover_dec_thr	/home/anton/coach/coach/MemOption.h	174;"	m	class:OptionInfo
+SP_recover_min	/home/anton/coach/coach/MemOption.h	175;"	m	class:OptionInfo
+SP_recover_dec	/home/anton/coach/coach/MemOption.h	176;"	m	class:OptionInfo
+SP_effort_dec_thr	/home/anton/coach/coach/MemOption.h	177;"	m	class:OptionInfo
+SP_effort_min	/home/anton/coach/coach/MemOption.h	178;"	m	class:OptionInfo
+SP_effort_dec	/home/anton/coach/coach/MemOption.h	179;"	m	class:OptionInfo
+SP_effort_inc_thr	/home/anton/coach/coach/MemOption.h	180;"	m	class:OptionInfo
+SP_effort_inc	/home/anton/coach/coach/MemOption.h	181;"	m	class:OptionInfo
+SP_ball_size	/home/anton/coach/coach/MemOption.h	182;"	m	class:OptionInfo
+SP_ball_decay	/home/anton/coach/coach/MemOption.h	183;"	m	class:OptionInfo
+SP_ball_rand	/home/anton/coach/coach/MemOption.h	184;"	m	class:OptionInfo
+SP_ball_weight	/home/anton/coach/coach/MemOption.h	185;"	m	class:OptionInfo
+SP_ball_speed_max	/home/anton/coach/coach/MemOption.h	186;"	m	class:OptionInfo
+SP_dash_power_rate	/home/anton/coach/coach/MemOption.h	187;"	m	class:OptionInfo
+SP_kick_power_rate	/home/anton/coach/coach/MemOption.h	188;"	m	class:OptionInfo
+SP_kickable_margin	/home/anton/coach/coach/MemOption.h	189;"	m	class:OptionInfo
+SP_kickable_area	/home/anton/coach/coach/MemOption.h	190;"	m	class:OptionInfo
+SP_catch_prob	/home/anton/coach/coach/MemOption.h	191;"	m	class:OptionInfo
+SP_catch_area_l	/home/anton/coach/coach/MemOption.h	192;"	m	class:OptionInfo
+SP_catch_area_w	/home/anton/coach/coach/MemOption.h	193;"	m	class:OptionInfo
+SP_max_power	/home/anton/coach/coach/MemOption.h	194;"	m	class:OptionInfo
+SP_min_power	/home/anton/coach/coach/MemOption.h	195;"	m	class:OptionInfo
+SP_max_moment	/home/anton/coach/coach/MemOption.h	196;"	m	class:OptionInfo
+SP_min_moment	/home/anton/coach/coach/MemOption.h	197;"	m	class:OptionInfo
+SP_max_neck_angle	/home/anton/coach/coach/MemOption.h	198;"	m	class:OptionInfo
+SP_min_neck_angle	/home/anton/coach/coach/MemOption.h	199;"	m	class:OptionInfo
+SP_max_neck_moment	/home/anton/coach/coach/MemOption.h	200;"	m	class:OptionInfo
+SP_min_neck_moment	/home/anton/coach/coach/MemOption.h	201;"	m	class:OptionInfo
+SP_visible_angle	/home/anton/coach/coach/MemOption.h	202;"	m	class:OptionInfo
+SP_visible_dist	/home/anton/coach/coach/MemOption.h	203;"	m	class:OptionInfo
+SP_audio_cut_dist	/home/anton/coach/coach/MemOption.h	204;"	m	class:OptionInfo
+SP_dist_qstep	/home/anton/coach/coach/MemOption.h	205;"	m	class:OptionInfo
+SP_land_qstep	/home/anton/coach/coach/MemOption.h	206;"	m	class:OptionInfo
+SP_ckmargin	/home/anton/coach/coach/MemOption.h	207;"	m	class:OptionInfo
+SP_wind_dir	/home/anton/coach/coach/MemOption.h	208;"	m	class:OptionInfo
+SP_wind_force	/home/anton/coach/coach/MemOption.h	209;"	m	class:OptionInfo
+SP_wind_rand	/home/anton/coach/coach/MemOption.h	210;"	m	class:OptionInfo
+SP_wind_none	/home/anton/coach/coach/MemOption.h	211;"	m	class:OptionInfo
+SP_wind_random	/home/anton/coach/coach/MemOption.h	212;"	m	class:OptionInfo
+SP_half_time	/home/anton/coach/coach/MemOption.h	213;"	m	class:OptionInfo
+SP_port	/home/anton/coach/coach/MemOption.h	214;"	m	class:OptionInfo
+SP_coach_port	/home/anton/coach/coach/MemOption.h	215;"	m	class:OptionInfo
+SP_olcoach_port	/home/anton/coach/coach/MemOption.h	216;"	m	class:OptionInfo
+SP_simulator_step	/home/anton/coach/coach/MemOption.h	217;"	m	class:OptionInfo
+SP_send_step	/home/anton/coach/coach/MemOption.h	218;"	m	class:OptionInfo
+SP_recv_step	/home/anton/coach/coach/MemOption.h	219;"	m	class:OptionInfo
+SP_say_msg_size	/home/anton/coach/coach/MemOption.h	220;"	m	class:OptionInfo
+SP_hear_max	/home/anton/coach/coach/MemOption.h	221;"	m	class:OptionInfo
+SP_hear_inc	/home/anton/coach/coach/MemOption.h	222;"	m	class:OptionInfo
+SP_hear_decay	/home/anton/coach/coach/MemOption.h	223;"	m	class:OptionInfo
+SP_catch_ban_cycle	/home/anton/coach/coach/MemOption.h	224;"	m	class:OptionInfo
+SP_coach_mode	/home/anton/coach/coach/MemOption.h	225;"	m	class:OptionInfo
+SP_coach_w_referee_mode	/home/anton/coach/coach/MemOption.h	226;"	m	class:OptionInfo
+SP_say_coach_cnt_max	/home/anton/coach/coach/MemOption.h	227;"	m	class:OptionInfo
+SP_say_coach_msg_size	/home/anton/coach/coach/MemOption.h	228;"	m	class:OptionInfo
+SP_send_vi_step	/home/anton/coach/coach/MemOption.h	229;"	m	class:OptionInfo
+SP_look_step	/home/anton/coach/coach/MemOption.h	230;"	m	class:OptionInfo
+SP_player_accel_max	/home/anton/coach/coach/MemOption.h	231;"	m	class:OptionInfo
+SP_log_times	/home/anton/coach/coach/MemOption.h	232;"	m	class:OptionInfo
+SP_goalie_max_moves	/home/anton/coach/coach/MemOption.h	233;"	m	class:OptionInfo
+SP_baccel_max	/home/anton/coach/coach/MemOption.h	234;"	m	class:OptionInfo
+SP_kick_rand	/home/anton/coach/coach/MemOption.h	235;"	m	class:OptionInfo
+SP_clang_win_size	/home/anton/coach/coach/MemOption.h	237;"	m	class:OptionInfo
+SP_clang_define_win	/home/anton/coach/coach/MemOption.h	238;"	m	class:OptionInfo
+SP_clang_meta_win	/home/anton/coach/coach/MemOption.h	239;"	m	class:OptionInfo
+SP_clang_advice_win	/home/anton/coach/coach/MemOption.h	240;"	m	class:OptionInfo
+SP_clang_info_win	/home/anton/coach/coach/MemOption.h	241;"	m	class:OptionInfo
+SP_clang_mess_delay	/home/anton/coach/coach/MemOption.h	242;"	m	class:OptionInfo
+SP_clang_mess_per_cycle	/home/anton/coach/coach/MemOption.h	243;"	m	class:OptionInfo
+SP_slowness_on_top_for_left_team	/home/anton/coach/coach/MemOption.h	245;"	m	class:OptionInfo
+SP_slowness_on_top_for_right_team	/home/anton/coach/coach/MemOption.h	246;"	m	class:OptionInfo
+SP_synch_mode	/home/anton/coach/coach/MemOption.h	247;"	m	class:OptionInfo
+SP_synch_micro_sleep	/home/anton/coach/coach/MemOption.h	248;"	m	class:OptionInfo
+SP_ball_accel_max	/home/anton/coach/coach/MemOption.h	249;"	m	class:OptionInfo
+SP_drop_ball_time	/home/anton/coach/coach/MemOption.h	250;"	m	class:OptionInfo
+SP_use_offside	/home/anton/coach/coach/MemOption.h	252;"	m	class:OptionInfo
+SP_forbid_kickoff_offside	/home/anton/coach/coach/MemOption.h	253;"	m	class:OptionInfo
+SP_logfile	/home/anton/coach/coach/MemOption.h	254;"	m	class:OptionInfo
+SP_recfile	/home/anton/coach/coach/MemOption.h	255;"	m	class:OptionInfo
+SP_rec_log	/home/anton/coach/coach/MemOption.h	256;"	m	class:OptionInfo
+SP_rec_ver	/home/anton/coach/coach/MemOption.h	257;"	m	class:OptionInfo
+SP_replay	/home/anton/coach/coach/MemOption.h	258;"	m	class:OptionInfo
+SP_verbose	/home/anton/coach/coach/MemOption.h	259;"	m	class:OptionInfo
+SP_send_log	/home/anton/coach/coach/MemOption.h	260;"	m	class:OptionInfo
+SP_offside_area	/home/anton/coach/coach/MemOption.h	261;"	m	class:OptionInfo
+SP_inertia_moment	/home/anton/coach/coach/MemOption.h	262;"	m	class:OptionInfo
+SP_sense_body_step	/home/anton/coach/coach/MemOption.h	263;"	m	class:OptionInfo
+SP_offside_kick_margin	/home/anton/coach/coach/MemOption.h	264;"	m	class:OptionInfo
+SP_record_messages	/home/anton/coach/coach/MemOption.h	265;"	m	class:OptionInfo
+SP_game_logging	/home/anton/coach/coach/MemOption.h	266;"	m	class:OptionInfo
+SP_send_comms	/home/anton/coach/coach/MemOption.h	267;"	m	class:OptionInfo
+SP_text_logging	/home/anton/coach/coach/MemOption.h	268;"	m	class:OptionInfo
+SP_game_log_version	/home/anton/coach/coach/MemOption.h	269;"	m	class:OptionInfo
+SP_text_log_dir	/home/anton/coach/coach/MemOption.h	270;"	m	class:OptionInfo
+SP_game_log_dir	/home/anton/coach/coach/MemOption.h	271;"	m	class:OptionInfo
+SP_text_log_fixed_name	/home/anton/coach/coach/MemOption.h	272;"	m	class:OptionInfo
+SP_game_log_fixed_name	/home/anton/coach/coach/MemOption.h	273;"	m	class:OptionInfo
+SP_text_log_fixed	/home/anton/coach/coach/MemOption.h	274;"	m	class:OptionInfo
+SP_game_log_fixed	/home/anton/coach/coach/MemOption.h	275;"	m	class:OptionInfo
+SP_text_log_dated	/home/anton/coach/coach/MemOption.h	276;"	m	class:OptionInfo
+SP_game_log_dated	/home/anton/coach/coach/MemOption.h	277;"	m	class:OptionInfo
+SP_log_date_format	/home/anton/coach/coach/MemOption.h	278;"	m	class:OptionInfo
+SP_text_log_compression	/home/anton/coach/coach/MemOption.h	279;"	m	class:OptionInfo
+SP_game_log_compression	/home/anton/coach/coach/MemOption.h	280;"	m	class:OptionInfo
+SP_recover_init	/home/anton/coach/coach/MemOption.h	282;"	m	class:OptionInfo
+SP_effort_init	/home/anton/coach/coach/MemOption.h	283;"	m	class:OptionInfo
+SP_team_actuator_noise	/home/anton/coach/coach/MemOption.h	284;"	m	class:OptionInfo
+SP_prand_factor_l	/home/anton/coach/coach/MemOption.h	285;"	m	class:OptionInfo
+SP_prand_factor_r	/home/anton/coach/coach/MemOption.h	286;"	m	class:OptionInfo
+SP_kick_rand_factor_l	/home/anton/coach/coach/MemOption.h	287;"	m	class:OptionInfo
+SP_kick_rand_factor_r	/home/anton/coach/coach/MemOption.h	288;"	m	class:OptionInfo
+SP_control_radius	/home/anton/coach/coach/MemOption.h	289;"	m	class:OptionInfo
+SP_control_radius_width	/home/anton/coach/coach/MemOption.h	290;"	m	class:OptionInfo
+SP_quantize_step_dir	/home/anton/coach/coach/MemOption.h	291;"	m	class:OptionInfo
+SP_quantize_step_dist_team_l	/home/anton/coach/coach/MemOption.h	292;"	m	class:OptionInfo
+SP_quantize_step_dist_team_r	/home/anton/coach/coach/MemOption.h	293;"	m	class:OptionInfo
+SP_quantize_step_dist_l_team_r	/home/anton/coach/coach/MemOption.h	294;"	m	class:OptionInfo
+SP_quantize_step_dist_l_team_l	/home/anton/coach/coach/MemOption.h	295;"	m	class:OptionInfo
+SP_quantize_step_dir_team_l	/home/anton/coach/coach/MemOption.h	296;"	m	class:OptionInfo
+SP_quantize_step_dir_team_r	/home/anton/coach/coach/MemOption.h	297;"	m	class:OptionInfo
+SP_wind_ang	/home/anton/coach/coach/MemOption.h	298;"	m	class:OptionInfo
+SP_lcm_step	/home/anton/coach/coach/MemOption.h	300;"	m	class:OptionInfo
+SP_old_coach_hear	/home/anton/coach/coach/MemOption.h	301;"	m	class:OptionInfo
+SP_slow_down_factor	/home/anton/coach/coach/MemOption.h	302;"	m	class:OptionInfo
+SP_synch_offset	/home/anton/coach/coach/MemOption.h	303;"	m	class:OptionInfo
+SP_start_goal_l	/home/anton/coach/coach/MemOption.h	304;"	m	class:OptionInfo
+SP_start_goal_r	/home/anton/coach/coach/MemOption.h	305;"	m	class:OptionInfo
+SP_fullstate_l	/home/anton/coach/coach/MemOption.h	306;"	m	class:OptionInfo
+SP_fullstate_r	/home/anton/coach/coach/MemOption.h	307;"	m	class:OptionInfo
+SP_profile	/home/anton/coach/coach/MemOption.h	308;"	m	class:OptionInfo
+SP_point_to_ban	/home/anton/coach/coach/MemOption.h	309;"	m	class:OptionInfo
+SP_point_to_duration	/home/anton/coach/coach/MemOption.h	310;"	m	class:OptionInfo
+SP_tackle_dist	/home/anton/coach/coach/MemOption.h	311;"	m	class:OptionInfo
+SP_tackle_back_dist	/home/anton/coach/coach/MemOption.h	312;"	m	class:OptionInfo
+SP_tackle_width	/home/anton/coach/coach/MemOption.h	313;"	m	class:OptionInfo
+SP_tackle_exponent	/home/anton/coach/coach/MemOption.h	314;"	m	class:OptionInfo
+SP_tackle_cycles	/home/anton/coach/coach/MemOption.h	315;"	m	class:OptionInfo
+SP_clang_rule_win	/home/anton/coach/coach/MemOption.h	317;"	m	class:OptionInfo
+SP_clang_del_win	/home/anton/coach/coach/MemOption.h	318;"	m	class:OptionInfo
+SP_freeform_send_period	/home/anton/coach/coach/MemOption.h	319;"	m	class:OptionInfo
+SP_freeform_wait_period	/home/anton/coach/coach/MemOption.h	320;"	m	class:OptionInfo
+SP_max_goal_kicks	/home/anton/coach/coach/MemOption.h	321;"	m	class:OptionInfo
+SP_back_passes	/home/anton/coach/coach/MemOption.h	322;"	m	class:OptionInfo
+SP_free_kick_faults	/home/anton/coach/coach/MemOption.h	323;"	m	class:OptionInfo
+SP_proper_goal_kicks	/home/anton/coach/coach/MemOption.h	324;"	m	class:OptionInfo
+SP_stopped_ball_vel	/home/anton/coach/coach/MemOption.h	325;"	m	class:OptionInfo
+SP_tackle_power_rate	/home/anton/coach/coach/MemOption.h	326;"	m	class:OptionInfo
+SP_landmark_file	/home/anton/coach/coach/MemOption.h	327;"	m	class:OptionInfo
+SP_connect_wait	/home/anton/coach/coach/MemOption.h	329;"	m	class:OptionInfo
+SP_game_over_wait	/home/anton/coach/coach/MemOption.h	330;"	m	class:OptionInfo
+SP_keepaway_start	/home/anton/coach/coach/MemOption.h	331;"	m	class:OptionInfo
+SP_kick_off_wait	/home/anton/coach/coach/MemOption.h	332;"	m	class:OptionInfo
+SP_nr_extra_halfs	/home/anton/coach/coach/MemOption.h	333;"	m	class:OptionInfo
+SP_nr_normal_halfs	/home/anton/coach/coach/MemOption.h	334;"	m	class:OptionInfo
+SP_pen_before_setup_wait	/home/anton/coach/coach/MemOption.h	335;"	m	class:OptionInfo
+SP_pen_setup_wait	/home/anton/coach/coach/MemOption.h	336;"	m	class:OptionInfo
+SP_pen_ready_wait	/home/anton/coach/coach/MemOption.h	337;"	m	class:OptionInfo
+SP_pen_taken_wait	/home/anton/coach/coach/MemOption.h	338;"	m	class:OptionInfo
+SP_pen_nr_kicks	/home/anton/coach/coach/MemOption.h	339;"	m	class:OptionInfo
+SP_pen_max_extra_kicks	/home/anton/coach/coach/MemOption.h	340;"	m	class:OptionInfo
+SP_keepaway_log_dir	/home/anton/coach/coach/MemOption.h	341;"	m	class:OptionInfo
+SP_keepaway_log_fixed_name	/home/anton/coach/coach/MemOption.h	342;"	m	class:OptionInfo
+SP_team_l_start	/home/anton/coach/coach/MemOption.h	343;"	m	class:OptionInfo
+SP_team_r_start	/home/anton/coach/coach/MemOption.h	344;"	m	class:OptionInfo
+SP_auto_mode	/home/anton/coach/coach/MemOption.h	345;"	m	class:OptionInfo
+SP_keepaway	/home/anton/coach/coach/MemOption.h	346;"	m	class:OptionInfo
+SP_keepaway_width	/home/anton/coach/coach/MemOption.h	347;"	m	class:OptionInfo
+SP_keepaway_length	/home/anton/coach/coach/MemOption.h	348;"	m	class:OptionInfo
+SP_keepaway_logging	/home/anton/coach/coach/MemOption.h	349;"	m	class:OptionInfo
+SP_keepaway_log_fixed	/home/anton/coach/coach/MemOption.h	350;"	m	class:OptionInfo
+SP_keepaway_log_dated	/home/anton/coach/coach/MemOption.h	351;"	m	class:OptionInfo
+SP_pen_allow_mult_kicks	/home/anton/coach/coach/MemOption.h	352;"	m	class:OptionInfo
+SP_pen_random_winner	/home/anton/coach/coach/MemOption.h	353;"	m	class:OptionInfo
+SP_penalty_shoot_outs	/home/anton/coach/coach/MemOption.h	354;"	m	class:OptionInfo
+SP_pen_dist_x	/home/anton/coach/coach/MemOption.h	355;"	m	class:OptionInfo
+SP_pen_max_goalie_dist_x	/home/anton/coach/coach/MemOption.h	356;"	m	class:OptionInfo
+SP_player_types	/home/anton/coach/coach/MemOption.h	358;"	m	class:OptionInfo
+SP_pt_max	/home/anton/coach/coach/MemOption.h	359;"	m	class:OptionInfo
+SP_random_seed	/home/anton/coach/coach/MemOption.h	360;"	m	class:OptionInfo
+SP_subs_max	/home/anton/coach/coach/MemOption.h	361;"	m	class:OptionInfo
+SP_dash_power_rate_delta_max	/home/anton/coach/coach/MemOption.h	362;"	m	class:OptionInfo
+SP_dash_power_rate_delta_min	/home/anton/coach/coach/MemOption.h	363;"	m	class:OptionInfo
+SP_effort_max_delta_factor	/home/anton/coach/coach/MemOption.h	364;"	m	class:OptionInfo
+SP_effort_min_delta_factor	/home/anton/coach/coach/MemOption.h	365;"	m	class:OptionInfo
+SP_extra_stamina_delta_max	/home/anton/coach/coach/MemOption.h	366;"	m	class:OptionInfo
+SP_extra_stamina_delta_min	/home/anton/coach/coach/MemOption.h	367;"	m	class:OptionInfo
+SP_inertia_moment_delta_factor	/home/anton/coach/coach/MemOption.h	368;"	m	class:OptionInfo
+SP_kick_rand_delta_factor	/home/anton/coach/coach/MemOption.h	369;"	m	class:OptionInfo
+SP_kickable_margin_delta_max	/home/anton/coach/coach/MemOption.h	370;"	m	class:OptionInfo
+SP_kickable_margin_delta_min	/home/anton/coach/coach/MemOption.h	371;"	m	class:OptionInfo
+SP_new_dash_power_rate_delta_max	/home/anton/coach/coach/MemOption.h	372;"	m	class:OptionInfo
+SP_new_dash_power_rate_delta_min	/home/anton/coach/coach/MemOption.h	373;"	m	class:OptionInfo
+SP_new_stamina_inc_max_delta_factor	/home/anton/coach/coach/MemOption.h	374;"	m	class:OptionInfo
+SP_player_decay_delta_max	/home/anton/coach/coach/MemOption.h	375;"	m	class:OptionInfo
+SP_player_decay_delta_min	/home/anton/coach/coach/MemOption.h	376;"	m	class:OptionInfo
+SP_player_size_delta_factor	/home/anton/coach/coach/MemOption.h	377;"	m	class:OptionInfo
+SP_player_speed_max_delta_max	/home/anton/coach/coach/MemOption.h	378;"	m	class:OptionInfo
+SP_player_speed_max_delta_min	/home/anton/coach/coach/MemOption.h	379;"	m	class:OptionInfo
+SP_stamina_inc_max_delta_factor	/home/anton/coach/coach/MemOption.h	380;"	m	class:OptionInfo
+SP_hetro_player_type	/home/anton/coach/coach/MemOption.h	382;"	m	class:OptionInfo
+Memory.C	/home/anton/coach/coach/Memory.C	1;"	F
+Initialize	/home/anton/coach/coach/Memory.C	41;"	f	class:Memory
+Memory.h	/home/anton/coach/coach/Memory.h	1;"	F
+_MEMORY_H_	/home/anton/coach/coach/Memory.h	40;"	d
+Memory	/home/anton/coach/coach/Memory.h	44;"	c	inherits:SetplayInfo
+Initialize	/home/anton/coach/coach/Memory.h	47;"	p	class:Memory
+MemPosition.C	/home/anton/coach/coach/MemPosition.C	1;"	F
+PlayerInfo	/home/anton/coach/coach/MemPosition.C	42;"	f	class:PlayerInfo
+Reset	/home/anton/coach/coach/MemPosition.C	47;"	f	class:PlayerInfo
+BallInfo	/home/anton/coach/coach/MemPosition.C	59;"	f	class:BallInfo
+Reset	/home/anton/coach/coach/MemPosition.C	64;"	f	class:BallInfo
+players_per_side	/home/anton/coach/coach/MemPosition.C	71;"	m	class:CycleInfo	file:
+CycleInfo	/home/anton/coach/coach/MemPosition.C	73;"	f	class:CycleInfo
+~CycleInfo	/home/anton/coach/coach/MemPosition.C	81;"	f	class:CycleInfo
+ResetData	/home/anton/coach/coach/MemPosition.C	86;"	f	class:CycleInfo
+GetPlayer	/home/anton/coach/coach/MemPosition.C	94;"	f	class:CycleInfo
+PositionInfo	/home/anton/coach/coach/MemPosition.C	110;"	f	class:PositionInfo
+Initialize	/home/anton/coach/coach/MemPosition.C	127;"	f	class:PositionInfo
+~PositionInfo	/home/anton/coach/coach/MemPosition.C	167;"	f	class:PositionInfo
+BeginNewCycle	/home/anton/coach/coach/MemPosition.C	181;"	f	class:PositionInfo
+SetBallInfo	/home/anton/coach/coach/MemPosition.C	190;"	f	class:PositionInfo
+SetPlayerInfo	/home/anton/coach/coach/MemPosition.C	196;"	f	class:PositionInfo
+SetPlayerInfo	/home/anton/coach/coach/MemPosition.C	214;"	f	class:PositionInfo
+GetTime	/home/anton/coach/coach/MemPosition.C	229;"	f	class:PositionInfo
+GetPlayMode	/home/anton/coach/coach/MemPosition.C	237;"	f	class:PositionInfo
+GetBall	/home/anton/coach/coach/MemPosition.C	246;"	f	class:PositionInfo
+GetPlayer	/home/anton/coach/coach/MemPosition.C	255;"	f	class:PositionInfo
+GetPlayer	/home/anton/coach/coach/MemPosition.C	272;"	f	class:PositionInfo
+GetBackInfo	/home/anton/coach/coach/MemPosition.C	284;"	f	class:PositionInfo
+GetPrevPlayMode	/home/anton/coach/coach/MemPosition.C	306;"	f	class:PositionInfo
+GetPrevBall	/home/anton/coach/coach/MemPosition.C	317;"	f	class:PositionInfo
+GetPrevPlayer	/home/anton/coach/coach/MemPosition.C	326;"	f	class:PositionInfo
+GetPrevPlayer	/home/anton/coach/coach/MemPosition.C	340;"	f	class:PositionInfo
+SortPlayersByDistanceToPoint	/home/anton/coach/coach/MemPosition.C	368;"	f	class:PositionInfo
+MemPosition.h	/home/anton/coach/coach/MemPosition.h	1;"	F
+_MEMPOSITION_H_	/home/anton/coach/coach/MemPosition.h	45;"	d
+PlayerInfo	/home/anton/coach/coach/MemPosition.h	51;"	c
+PlayerInfo	/home/anton/coach/coach/MemPosition.h	54;"	p	class:PlayerInfo
+Reset	/home/anton/coach/coach/MemPosition.h	55;"	p	class:PlayerInfo
+side	/home/anton/coach/coach/MemPosition.h	57;"	m	class:PlayerInfo
+num	/home/anton/coach/coach/MemPosition.h	58;"	m	class:PlayerInfo
+pos	/home/anton/coach/coach/MemPosition.h	59;"	m	class:PlayerInfo
+vel	/home/anton/coach/coach/MemPosition.h	60;"	m	class:PlayerInfo
+body_ang	/home/anton/coach/coach/MemPosition.h	61;"	m	class:PlayerInfo
+neck_ang	/home/anton/coach/coach/MemPosition.h	62;"	m	class:PlayerInfo
+goalie	/home/anton/coach/coach/MemPosition.h	63;"	m	class:PlayerInfo
+pPlayerInfo	/home/anton/coach/coach/MemPosition.h	65;"	t
+BallInfo	/home/anton/coach/coach/MemPosition.h	68;"	s
+BallInfo	/home/anton/coach/coach/MemPosition.h	71;"	p	struct:BallInfo
+Reset	/home/anton/coach/coach/MemPosition.h	72;"	p	struct:BallInfo
+pos	/home/anton/coach/coach/MemPosition.h	74;"	m	struct:BallInfo
+vel	/home/anton/coach/coach/MemPosition.h	75;"	m	struct:BallInfo
+pBallInfo	/home/anton/coach/coach/MemPosition.h	77;"	t
+CycleInfo	/home/anton/coach/coach/MemPosition.h	80;"	s
+CycleInfo	/home/anton/coach/coach/MemPosition.h	83;"	p	struct:CycleInfo
+~CycleInfo	/home/anton/coach/coach/MemPosition.h	84;"	p	struct:CycleInfo
+ResetData	/home/anton/coach/coach/MemPosition.h	85;"	p	struct:CycleInfo
+GetPlayer	/home/anton/coach/coach/MemPosition.h	87;"	p	struct:CycleInfo
+players_per_side	/home/anton/coach/coach/MemPosition.h	89;"	m	struct:CycleInfo
+pPrev	/home/anton/coach/coach/MemPosition.h	91;"	m	struct:CycleInfo
+pNext	/home/anton/coach/coach/MemPosition.h	92;"	m	struct:CycleInfo
+time	/home/anton/coach/coach/MemPosition.h	94;"	m	struct:CycleInfo
+playMode	/home/anton/coach/coach/MemPosition.h	95;"	m	struct:CycleInfo
+players	/home/anton/coach/coach/MemPosition.h	96;"	m	struct:CycleInfo
+ball	/home/anton/coach/coach/MemPosition.h	97;"	m	struct:CycleInfo
+pCycleInfo	/home/anton/coach/coach/MemPosition.h	99;"	t
+PositionInfo	/home/anton/coach/coach/MemPosition.h	105;"	c	inherits:OptionInfo
+pLatestCycle	/home/anton/coach/coach/MemPosition.h	107;"	m	class:PositionInfo
+playMode	/home/anton/coach/coach/MemPosition.h	108;"	m	class:PositionInfo
+numCycles	/home/anton/coach/coach/MemPosition.h	110;"	m	class:PositionInfo
+GetBackInfo	/home/anton/coach/coach/MemPosition.h	112;"	p	class:PositionInfo
+PositionInfo	/home/anton/coach/coach/MemPosition.h	115;"	p	class:PositionInfo
+~PositionInfo	/home/anton/coach/coach/MemPosition.h	116;"	p	class:PositionInfo
+Initialize	/home/anton/coach/coach/MemPosition.h	117;"	p	class:PositionInfo
+ShutDown	/home/anton/coach/coach/MemPosition.h	119;"	m	class:PositionInfo
+Initialized	/home/anton/coach/coach/MemPosition.h	120;"	m	class:PositionInfo
+MySide	/home/anton/coach/coach/MemPosition.h	121;"	m	class:PositionInfo
+LogFile	/home/anton/coach/coach/MemPosition.h	122;"	m	class:PositionInfo
+OurGoalieNum	/home/anton/coach/coach/MemPosition.h	123;"	m	class:PositionInfo
+TheirGoalieNum	/home/anton/coach/coach/MemPosition.h	124;"	m	class:PositionInfo
+TheirTeamname	/home/anton/coach/coach/MemPosition.h	125;"	m	class:PositionInfo
+player_type	/home/anton/coach/coach/MemPosition.h	126;"	m	class:PositionInfo
+SetPlayMode	/home/anton/coach/coach/MemPosition.h	128;"	f	class:PositionInfo
+BeginNewCycle	/home/anton/coach/coach/MemPosition.h	130;"	p	class:PositionInfo
+SetBallInfo	/home/anton/coach/coach/MemPosition.h	131;"	p	class:PositionInfo
+SetPlayerInfo	/home/anton/coach/coach/MemPosition.h	132;"	p	class:PositionInfo
+SetPlayerInfo	/home/anton/coach/coach/MemPosition.h	135;"	p	class:PositionInfo
+GetTime	/home/anton/coach/coach/MemPosition.h	140;"	p	class:PositionInfo
+DropBallTime	/home/anton/coach/coach/MemPosition.h	141;"	m	class:PositionInfo
+GetPlayMode	/home/anton/coach/coach/MemPosition.h	146;"	p	class:PositionInfo
+GetBall	/home/anton/coach/coach/MemPosition.h	147;"	p	class:PositionInfo
+GetPlayer	/home/anton/coach/coach/MemPosition.h	148;"	p	class:PositionInfo
+GetPlayer	/home/anton/coach/coach/MemPosition.h	149;"	p	class:PositionInfo
+GetPrevPlayMode	/home/anton/coach/coach/MemPosition.h	151;"	p	class:PositionInfo
+GetPrevBall	/home/anton/coach/coach/MemPosition.h	152;"	p	class:PositionInfo
+GetPrevPlayer	/home/anton/coach/coach/MemPosition.h	153;"	p	class:PositionInfo
+GetPrevPlayer	/home/anton/coach/coach/MemPosition.h	154;"	p	class:PositionInfo
+SortPlayersByDistanceToPoint	/home/anton/coach/coach/MemPosition.h	157;"	p	class:PositionInfo
+MemSetplay.C	/home/anton/coach/coach/MemSetplay.C	1;"	F
+Initialize	/home/anton/coach/coach/MemSetplay.C	43;"	f	class:SetplayInfo
+SetplaySightHandler	/home/anton/coach/coach/MemSetplay.C	48;"	f	class:SetplayInfo
+SetplayPlayerSoundHandler	/home/anton/coach/coach/MemSetplay.C	69;"	f	class:SetplayInfo
+MemSetplay.h	/home/anton/coach/coach/MemSetplay.h	1;"	F
+_SETPLAY_H_	/home/anton/coach/coach/MemSetplay.h	40;"	d
+SetplayInfo	/home/anton/coach/coach/MemSetplay.h	46;"	c	inherits:Formations
+Initialize	/home/anton/coach/coach/MemSetplay.h	50;"	p	class:SetplayInfo
+SetplaySightHandler	/home/anton/coach/coach/MemSetplay.h	52;"	p	class:SetplayInfo
+SetplayPlayerSoundHandler	/home/anton/coach/coach/MemSetplay.h	53;"	p	class:SetplayInfo
+netif.C	/home/anton/coach/coach/netif.C	1;"	F
+wait_message	/home/anton/coach/coach/netif.C	42;"	f
+init_connection	/home/anton/coach/coach/netif.C	57;"	f
+send_message	/home/anton/coach/coach/netif.C	130;"	f
+receive_message	/home/anton/coach/coach/netif.C	152;"	f
+close_connection	/home/anton/coach/coach/netif.C	184;"	f
+netif.h	/home/anton/coach/coach/netif.h	1;"	F
+__netif_h	/home/anton/coach/coach/netif.h	42;"	d
+DEFAULT_PORT_NUMBER	/home/anton/coach/coach/netif.h	59;"	d
+MAXMESG	/home/anton/coach/coach/netif.h	60;"	d
+MAXARG	/home/anton/coach/coach/netif.h	61;"	d
+bzero	/home/anton/coach/coach/netif.h	64;"	d
+Socket	/home/anton/coach/coach/netif.h	72;"	c
+socketfd	/home/anton/coach/coach/netif.h	74;"	m	class:Socket
+serv_addr	/home/anton/coach/coach/netif.h	75;"	m	class:Socket
+socket	/home/anton/coach/coach/netif.h	78;"	s
+socketfd	/home/anton/coach/coach/netif.h	79;"	m	struct:socket
+serv_addr	/home/anton/coach/coach/netif.h	80;"	m	struct:socket
+Socket	/home/anton/coach/coach/netif.h	81;"	t
+init_connection	/home/anton/coach/coach/netif.h	84;"	p
+send_message	/home/anton/coach/coach/netif.h	85;"	p
+receive_message	/home/anton/coach/coach/netif.h	86;"	p
+close_connection	/home/anton/coach/coach/netif.h	87;"	p
+wait_message	/home/anton/coach/coach/netif.h	89;"	p
+parse.C	/home/anton/coach/coach/parse.C	1;"	F
+Parse	/home/anton/coach/coach/parse.C	50;"	f
+Parse_Sight	/home/anton/coach/coach/parse.C	175;"	f
+Parse_Referee_Sound	/home/anton/coach/coach/parse.C	258;"	f
+Parse_Clang_Version	/home/anton/coach/coach/parse.C	365;"	f
+Parse_Change_Player_Type	/home/anton/coach/coach/parse.C	373;"	f
+parse.h	/home/anton/coach/coach/parse.h	1;"	F
+_PARSE_H_	/home/anton/coach/coach/parse.h	41;"	d
+Parse	/home/anton/coach/coach/parse.h	45;"	p
+Parse_Clang_Version	/home/anton/coach/coach/parse.h	46;"	p
+Parse	/home/anton/coach/coach/parse.h	47;"	p
+Parse_Sight	/home/anton/coach/coach/parse.h	48;"	p
+Parse_Referee_Sound	/home/anton/coach/coach/parse.h	49;"	p
+Parse_Change_Player_Type	/home/anton/coach/coach/parse.h	50;"	p
+serveroptions.h	/home/anton/coach/coach/serveroptions.h	1;"	F
+types.h	/home/anton/coach/coach/types.h	1;"	F
+_TYPES_H_	/home/anton/coach/coach/types.h	40;"	d
+Bool	/home/anton/coach/coach/types.h	55;"	g
+FALSE	/home/anton/coach/coach/types.h	56;"	e	enum:Bool
+TRUE	/home/anton/coach/coach/types.h	57;"	e	enum:Bool
+num_TeamSide	/home/anton/coach/coach/types.h	60;"	d
+TeamSide	/home/anton/coach/coach/types.h	61;"	g
+TS_Left	/home/anton/coach/coach/types.h	62;"	e	enum:TeamSide
+TS_Right	/home/anton/coach/coach/types.h	63;"	e	enum:TeamSide
+TS_Both	/home/anton/coach/coach/types.h	64;"	e	enum:TeamSide
+TS_Neither	/home/anton/coach/coach/types.h	65;"	e	enum:TeamSide
+TS_NoValue	/home/anton/coach/coach/types.h	66;"	e	enum:TeamSide
+TEAMSIDE_STRINGS	/home/anton/coach/coach/types.h	69;"	d
+Unum	/home/anton/coach/coach/types.h	72;"	t
+Unum_Unknown	/home/anton/coach/coach/types.h	73;"	d
+Time	/home/anton/coach/coach/types.h	75;"	t
+NULLCHAR	/home/anton/coach/coach/types.h	77;"	d
+MAXNAMELEN	/home/anton/coach/coach/types.h	79;"	d
+MAX_PLAYERS	/home/anton/coach/coach/types.h	81;"	d
+SenseType	/home/anton/coach/coach/types.h	83;"	g
+ST_None	/home/anton/coach/coach/types.h	84;"	e	enum:SenseType
+ST_See	/home/anton/coach/coach/types.h	85;"	e	enum:SenseType
+ST_HearPlayer	/home/anton/coach/coach/types.h	86;"	e	enum:SenseType
+ST_HearReferee	/home/anton/coach/coach/types.h	87;"	e	enum:SenseType
+ST_HearTrainer	/home/anton/coach/coach/types.h	88;"	e	enum:SenseType
+ST_HearCoach	/home/anton/coach/coach/types.h	89;"	e	enum:SenseType
+ST_Error	/home/anton/coach/coach/types.h	90;"	e	enum:SenseType
+ST_Warning	/home/anton/coach/coach/types.h	91;"	e	enum:SenseType
+ST_ServerParam	/home/anton/coach/coach/types.h	92;"	e	enum:SenseType
+ST_PlayerParam	/home/anton/coach/coach/types.h	93;"	e	enum:SenseType
+ST_PlayerType	/home/anton/coach/coach/types.h	94;"	e	enum:SenseType
+ST_ClangVersion	/home/anton/coach/coach/types.h	95;"	e	enum:SenseType
+ST_ChangePlayerType	/home/anton/coach/coach/types.h	96;"	e	enum:SenseType
+ST_Ok	/home/anton/coach/coach/types.h	97;"	e	enum:SenseType
+_PlayMode	/home/anton/coach/coach/types.h	100;"	g
+PM_No_Mode	/home/anton/coach/coach/types.h	101;"	e	enum:_PlayMode
+PM_Before_Kick_Off	/home/anton/coach/coach/types.h	102;"	e	enum:_PlayMode
+PM_Time_Over	/home/anton/coach/coach/types.h	103;"	e	enum:_PlayMode
+PM_Play_On	/home/anton/coach/coach/types.h	104;"	e	enum:_PlayMode
+PM_Kick_Off_Left	/home/anton/coach/coach/types.h	105;"	e	enum:_PlayMode
+PM_Kick_Off_Right	/home/anton/coach/coach/types.h	106;"	e	enum:_PlayMode
+PM_Kick_In_Left	/home/anton/coach/coach/types.h	107;"	e	enum:_PlayMode
+PM_Kick_In_Right	/home/anton/coach/coach/types.h	108;"	e	enum:_PlayMode
+PM_Free_Kick_Left	/home/anton/coach/coach/types.h	109;"	e	enum:_PlayMode
+PM_Free_Kick_Right	/home/anton/coach/coach/types.h	110;"	e	enum:_PlayMode
+PM_Corner_Kick_Left	/home/anton/coach/coach/types.h	111;"	e	enum:_PlayMode
+PM_Corner_Kick_Right	/home/anton/coach/coach/types.h	112;"	e	enum:_PlayMode
+PM_Goal_Kick_Left	/home/anton/coach/coach/types.h	113;"	e	enum:_PlayMode
+PM_Goal_Kick_Right	/home/anton/coach/coach/types.h	114;"	e	enum:_PlayMode
+PM_After_Goal_Left	/home/anton/coach/coach/types.h	115;"	e	enum:_PlayMode
+PM_After_Goal_Right	/home/anton/coach/coach/types.h	116;"	e	enum:_PlayMode
+PM_Drop_Ball	/home/anton/coach/coach/types.h	117;"	e	enum:_PlayMode
+PM_OffSide_Left	/home/anton/coach/coach/types.h	118;"	e	enum:_PlayMode
+PM_OffSide_Right	/home/anton/coach/coach/types.h	119;"	e	enum:_PlayMode
+PM_MAX	/home/anton/coach/coach/types.h	120;"	e	enum:_PlayMode
+Pmode	/home/anton/coach/coach/types.h	121;"	t
+PLAYMODE_STRINGS	/home/anton/coach/coach/types.h	145;"	d
+TURNDIR	/home/anton/coach/coach/types.h	167;"	g
+TURN_NONE	/home/anton/coach/coach/types.h	168;"	e	enum:TURNDIR
+TURN_CW	/home/anton/coach/coach/types.h	169;"	e	enum:TURNDIR
+TURN_CCW	/home/anton/coach/coach/types.h	170;"	e	enum:TURNDIR
+TURN_CLOSEST	/home/anton/coach/coach/types.h	171;"	e	enum:TURNDIR
+TURN_AVOID	/home/anton/coach/coach/types.h	172;"	e	enum:TURNDIR
+TurnDir	/home/anton/coach/coach/types.h	173;"	t
+MAX_OPTION_LENGTH	/home/anton/coach/coach/types.h	175;"	d
+TrainerValueType	/home/anton/coach/coach/types.h	176;"	g
+TVT_OnOff	/home/anton/coach/coach/types.h	177;"	e	enum:TrainerValueType
+TVT_Int	/home/anton/coach/coach/types.h	178;"	e	enum:TrainerValueType
+TVT_Float	/home/anton/coach/coach/types.h	179;"	e	enum:TrainerValueType
+Ptype	/home/anton/coach/coach/types.h	182;"	g
+PT_None	/home/anton/coach/coach/types.h	183;"	e	enum:Ptype
+PT_Goaltender	/home/anton/coach/coach/types.h	184;"	e	enum:Ptype
+PT_Sweeper	/home/anton/coach/coach/types.h	185;"	e	enum:Ptype
+PT_Defender	/home/anton/coach/coach/types.h	186;"	e	enum:Ptype
+PT_Midfielder	/home/anton/coach/coach/types.h	187;"	e	enum:Ptype
+PT_Forward	/home/anton/coach/coach/types.h	188;"	e	enum:Ptype
+PT_All	/home/anton/coach/coach/types.h	189;"	e	enum:Ptype
+Pside	/home/anton/coach/coach/types.h	192;"	g
+PS_None	/home/anton/coach/coach/types.h	193;"	e	enum:Pside
+PS_Left	/home/anton/coach/coach/types.h	194;"	e	enum:Pside
+PS_Center	/home/anton/coach/coach/types.h	195;"	e	enum:Pside
+PS_Right	/home/anton/coach/coach/types.h	196;"	e	enum:Pside
+PS_All	/home/anton/coach/coach/types.h	197;"	e	enum:Pside
+MAX_PLAYER	/home/anton/coach/coach/types.h	201;"	d
+NO_INFO	/home/anton/coach/coach/types.h	202;"	d
+SHOW_MODE	/home/anton/coach/coach/types.h	203;"	d
+MSG_MODE	/home/anton/coach/coach/types.h	204;"	d
+DRAW_MODE	/home/anton/coach/coach/types.h	205;"	d
+BLANK_MODE	/home/anton/coach/coach/types.h	206;"	d
+MSG_BOARD	/home/anton/coach/coach/types.h	208;"	d
+LOG_BOARD	/home/anton/coach/coach/types.h	209;"	d
+SHOWINFO_SCALE	/home/anton/coach/coach/types.h	211;"	d
+COLOR_NAME_MAX	/home/anton/coach/coach/types.h	214;"	d
+LEFT	/home/anton/coach/coach/types.h	216;"	d
+NEUTRAL	/home/anton/coach/coach/types.h	217;"	d
+RIGHT	/home/anton/coach/coach/types.h	218;"	d
+enable	/home/anton/coach/coach/types.h	221;"	m	struct:
+side	/home/anton/coach/coach/types.h	222;"	m	struct:
+unum	/home/anton/coach/coach/types.h	223;"	m	struct:
+angle	/home/anton/coach/coach/types.h	224;"	m	struct:
+x	/home/anton/coach/coach/types.h	225;"	m	struct:
+y	/home/anton/coach/coach/types.h	226;"	m	struct:
+pos_t	/home/anton/coach/coach/types.h	227;"	t
+name	/home/anton/coach/coach/types.h	230;"	m	struct:
+score	/home/anton/coach/coach/types.h	231;"	m	struct:
+team_t	/home/anton/coach/coach/types.h	232;"	t
+pmode	/home/anton/coach/coach/types.h	235;"	m	struct:
+team	/home/anton/coach/coach/types.h	236;"	m	struct:
+pos	/home/anton/coach/coach/types.h	237;"	m	struct:
+time	/home/anton/coach/coach/types.h	238;"	m	struct:
+showinfo_t	/home/anton/coach/coach/types.h	239;"	t
+board	/home/anton/coach/coach/types.h	242;"	m	struct:
+message	/home/anton/coach/coach/types.h	243;"	m	struct:
+msginfo_t	/home/anton/coach/coach/types.h	244;"	t
+x	/home/anton/coach/coach/types.h	247;"	m	struct:
+y	/home/anton/coach/coach/types.h	248;"	m	struct:
+color	/home/anton/coach/coach/types.h	249;"	m	struct:
+pointinfo_t	/home/anton/coach/coach/types.h	250;"	t
+x	/home/anton/coach/coach/types.h	253;"	m	struct:
+y	/home/anton/coach/coach/types.h	254;"	m	struct:
+r	/home/anton/coach/coach/types.h	255;"	m	struct:
+color	/home/anton/coach/coach/types.h	256;"	m	struct:
+circleinfo_t	/home/anton/coach/coach/types.h	257;"	t
+x1	/home/anton/coach/coach/types.h	260;"	m	struct:
+y1	/home/anton/coach/coach/types.h	261;"	m	struct:
+x2	/home/anton/coach/coach/types.h	262;"	m	struct:
+y2	/home/anton/coach/coach/types.h	263;"	m	struct:
+color	/home/anton/coach/coach/types.h	264;"	m	struct:
+lineinfo_t	/home/anton/coach/coach/types.h	265;"	t
+mode	/home/anton/coach/coach/types.h	268;"	m	struct:
+pinfo	/home/anton/coach/coach/types.h	270;"	m	union:
+cinfo	/home/anton/coach/coach/types.h	271;"	m	union:
+linfo	/home/anton/coach/coach/types.h	272;"	m	union:
+object	/home/anton/coach/coach/types.h	273;"	m	struct:
+drawinfo_t	/home/anton/coach/coach/types.h	274;"	t
+mode	/home/anton/coach/coach/types.h	277;"	m	struct:
+show	/home/anton/coach/coach/types.h	279;"	m	union:
+msg	/home/anton/coach/coach/types.h	280;"	m	union:
+draw	/home/anton/coach/coach/types.h	281;"	m	union:
+body	/home/anton/coach/coach/types.h	282;"	m	struct:
+dispinfo_t	/home/anton/coach/coach/types.h	283;"	t
+utils.C	/home/anton/coach/coach/utils.C	1;"	F
+dump_core	/home/anton/coach/coach/utils.C	51;"	f
+my_error	/home/anton/coach/coach/utils.C	57;"	f
+my_error	/home/anton/coach/coach/utils.C	64;"	f
+my_error	/home/anton/coach/coach/utils.C	71;"	f
+my_error	/home/anton/coach/coach/utils.C	78;"	f
+my_error	/home/anton/coach/coach/utils.C	85;"	f
+my_error	/home/anton/coach/coach/utils.C	92;"	f
+my_error	/home/anton/coach/coach/utils.C	99;"	f
+my_error	/home/anton/coach/coach/utils.C	106;"	f
+my_error	/home/anton/coach/coach/utils.C	113;"	f
+my_error	/home/anton/coach/coach/utils.C	120;"	f
+my_error	/home/anton/coach/coach/utils.C	126;"	f
+my_error	/home/anton/coach/coach/utils.C	132;"	f
+my_error	/home/anton/coach/coach/utils.C	138;"	f
+my_error	/home/anton/coach/coach/utils.C	144;"	f
+my_error	/home/anton/coach/coach/utils.C	150;"	f
+closest_int	/home/anton/coach/coach/utils.C	159;"	f
+NormalizeAngleDeg	/home/anton/coach/coach/utils.C	165;"	f
+NormalizeAngleDeg	/home/anton/coach/coach/utils.C	172;"	f
+NormalizeAngleRad	/home/anton/coach/coach/utils.C	179;"	f
+GetNormalizeAngleDeg	/home/anton/coach/coach/utils.C	184;"	f
+GetDistance	/home/anton/coach/coach/utils.C	192;"	f
+weighted_avg	/home/anton/coach/coach/utils.C	196;"	f
+SumGeomSeries	/home/anton/coach/coach/utils.C	200;"	f
+SolveForSumGeomSeries	/home/anton/coach/coach/utils.C	205;"	f
+Round	/home/anton/coach/coach/utils.C	215;"	f
+skip_white_space	/home/anton/coach/coach/utils.C	236;"	f
+advance_to_on_line	/home/anton/coach/coach/utils.C	251;"	f
+get_leading_directory	/home/anton/coach/coach/utils.C	271;"	f
+GetIntOffLine	/home/anton/coach/coach/utils.C	285;"	f
+GetDoubleOffLine	/home/anton/coach/coach/utils.C	299;"	f
+GetIntFromLine	/home/anton/coach/coach/utils.C	313;"	f
+GetFloatFromLine	/home/anton/coach/coach/utils.C	320;"	f
+GetDoubleFromLine	/home/anton/coach/coach/utils.C	329;"	f
+get_double	/home/anton/coach/coach/utils.C	343;"	f
+get_double	/home/anton/coach/coach/utils.C	385;"	f
+get_float	/home/anton/coach/coach/utils.C	392;"	f
+get_float	/home/anton/coach/coach/utils.C	434;"	f
+get_int	/home/anton/coach/coach/utils.C	441;"	f
+get_int	/home/anton/coach/coach/utils.C	467;"	f
+get_word	/home/anton/coach/coach/utils.C	474;"	f
+get_next_word	/home/anton/coach/coach/utils.C	480;"	f
+advance_to	/home/anton/coach/coach/utils.C	487;"	f
+get_token	/home/anton/coach/coach/utils.C	492;"	f
+advance_past_space	/home/anton/coach/coach/utils.C	498;"	f
+put_float	/home/anton/coach/coach/utils.C	509;"	f
+put_int	/home/anton/coach/coach/utils.C	556;"	f
+BubbleSort	/home/anton/coach/coach/utils.C	592;"	f
+BinarySearch	/home/anton/coach/coach/utils.C	622;"	f
+StrReplace	/home/anton/coach/coach/utils.C	649;"	f
+int_random	/home/anton/coach/coach/utils.C	676;"	f
+range_random	/home/anton/coach/coach/utils.C	702;"	f
+very_random_int	/home/anton/coach/coach/utils.C	710;"	f
+GetStampedName	/home/anton/coach/coach/utils.C	717;"	f
+utils.h	/home/anton/coach/coach/utils.h	1;"	F
+_UTILS_	/home/anton/coach/coach/utils.h	41;"	d
+dump_core	/home/anton/coach/coach/utils.h	49;"	p
+my_error	/home/anton/coach/coach/utils.h	51;"	p
+my_error	/home/anton/coach/coach/utils.h	52;"	p
+my_error	/home/anton/coach/coach/utils.h	53;"	p
+my_error	/home/anton/coach/coach/utils.h	54;"	p
+my_error	/home/anton/coach/coach/utils.h	55;"	p
+my_error	/home/anton/coach/coach/utils.h	56;"	p
+my_error	/home/anton/coach/coach/utils.h	57;"	p
+my_error	/home/anton/coach/coach/utils.h	58;"	p
+my_error	/home/anton/coach/coach/utils.h	59;"	p
+my_error	/home/anton/coach/coach/utils.h	60;"	p
+my_error	/home/anton/coach/coach/utils.h	61;"	p
+my_error	/home/anton/coach/coach/utils.h	62;"	p
+my_error	/home/anton/coach/coach/utils.h	63;"	p
+my_error	/home/anton/coach/coach/utils.h	64;"	p
+my_error	/home/anton/coach/coach/utils.h	65;"	p
+closest_int	/home/anton/coach/coach/utils.h	68;"	p
+Value	/home/anton/coach/coach/utils.h	70;"	t
+AngleRad	/home/anton/coach/coach/utils.h	71;"	t
+AngleDeg	/home/anton/coach/coach/utils.h	72;"	t
+Rad2Deg	/home/anton/coach/coach/utils.h	74;"	f
+Deg2Rad	/home/anton/coach/coach/utils.h	75;"	f
+Cos	/home/anton/coach/coach/utils.h	82;"	f
+Sin	/home/anton/coach/coach/utils.h	83;"	f
+Tan	/home/anton/coach/coach/utils.h	84;"	f
+ACos	/home/anton/coach/coach/utils.h	85;"	f
+ASin	/home/anton/coach/coach/utils.h	86;"	f
+ATan	/home/anton/coach/coach/utils.h	87;"	f
+ATan2	/home/anton/coach/coach/utils.h	88;"	f
+NormalizeAngleDeg	/home/anton/coach/coach/utils.h	90;"	p
+NormalizeAngleDeg	/home/anton/coach/coach/utils.h	91;"	p
+NormalizeAngleRad	/home/anton/coach/coach/utils.h	92;"	p
+GetNormalizeAngleDeg	/home/anton/coach/coach/utils.h	93;"	p
+GetDistance	/home/anton/coach/coach/utils.h	94;"	p
+FLOAT_EPS	/home/anton/coach/coach/utils.h	96;"	d
+Mod	/home/anton/coach/coach/utils.h	98;"	d
+Sign	/home/anton/coach/coach/utils.h	99;"	d
+Min	/home/anton/coach/coach/utils.h	100;"	d
+Max	/home/anton/coach/coach/utils.h	101;"	d
+MinMax	/home/anton/coach/coach/utils.h	102;"	d
+Sqr	/home/anton/coach/coach/utils.h	103;"	f
+Sqr	/home/anton/coach/coach/utils.h	104;"	f
+Exp	/home/anton/coach/coach/utils.h	105;"	f
+SumInfGeomSeries	/home/anton/coach/coach/utils.h	106;"	f
+SolveForSumInfGeomSeries	/home/anton/coach/coach/utils.h	108;"	f
+SumGeomSeries	/home/anton/coach/coach/utils.h	110;"	p
+SolveForSumGeomSeries	/home/anton/coach/coach/utils.h	112;"	p
+signf	/home/anton/coach/coach/utils.h	113;"	d
+Round	/home/anton/coach/coach/utils.h	114;"	p
+RoundToInt	/home/anton/coach/coach/utils.h	115;"	f
+WeightedSum	/home/anton/coach/coach/utils.h	120;"	f
+skip_white_space	/home/anton/coach/coach/utils.h	126;"	p
+advance_to_on_line	/home/anton/coach/coach/utils.h	128;"	p
+get_leading_directory	/home/anton/coach/coach/utils.h	131;"	p
+GetIntFromLine	/home/anton/coach/coach/utils.h	134;"	p
+GetFloatFromLine	/home/anton/coach/coach/utils.h	136;"	p
+GetDoubleFromLine	/home/anton/coach/coach/utils.h	137;"	p
+GetIntOffLine	/home/anton/coach/coach/utils.h	139;"	p
+GetDoubleOffLine	/home/anton/coach/coach/utils.h	141;"	p
+get_double	/home/anton/coach/coach/utils.h	144;"	p
+get_double	/home/anton/coach/coach/utils.h	145;"	p
+get_float	/home/anton/coach/coach/utils.h	146;"	p
+get_float	/home/anton/coach/coach/utils.h	147;"	p
+get_int	/home/anton/coach/coach/utils.h	148;"	p
+get_int	/home/anton/coach/coach/utils.h	149;"	p
+get_word	/home/anton/coach/coach/utils.h	150;"	p
+get_next_word	/home/anton/coach/coach/utils.h	151;"	p
+get_token	/home/anton/coach/coach/utils.h	152;"	p
+advance_to	/home/anton/coach/coach/utils.h	153;"	p
+advance_past_space	/home/anton/coach/coach/utils.h	154;"	p
+put_int	/home/anton/coach/coach/utils.h	156;"	p
+put_float	/home/anton/coach/coach/utils.h	157;"	p
+BubbleSort	/home/anton/coach/coach/utils.h	159;"	p
+BinarySearch	/home/anton/coach/coach/utils.h	160;"	p
+StrReplace	/home/anton/coach/coach/utils.h	161;"	p
+int_random	/home/anton/coach/coach/utils.h	163;"	p
+range_random	/home/anton/coach/coach/utils.h	164;"	p
+very_random_int	/home/anton/coach/coach/utils.h	165;"	p
+weighted_avg	/home/anton/coach/coach/utils.h	167;"	p
+GetStampedName	/home/anton/coach/coach/utils.h	169;"	p
+libtool	/home/anton/coach/libtool	1;"	F

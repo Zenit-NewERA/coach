@@ -1,0 +1,32 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <LastCompileConfig>(Default)</LastCompileConfig>
+ <Mainframe MaximizeMode="1" />
+ <DocsAndViews NumberOfDocuments="8" >
+  <Doc0 CursorPosLine="25" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/anton/coach/coach/Formations.h" >
+   <View0 Top="0" Width="944" Attach="1" Height="541" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc0>
+  <Doc1 CursorPosLine="39" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="19" FileName="/home/anton/coach/coach/netif.C" >
+   <View0 Top="0" Width="98" Attach="1" Height="28" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc1>
+  <Doc2 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/anton/coach/coach/MemOption.h" >
+   <View0 Top="0" Width="944" Attach="1" Height="541" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc2>
+  <Doc3 CursorPosLine="44" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/anton/coach/coach/Memory.h" >
+   <View0 Top="0" Width="944" Attach="1" Height="541" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc3>
+  <Doc4 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/anton/coach/coach/MemSetplay.h" >
+   <View0 Top="0" Width="944" Attach="1" Height="541" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc4>
+  <Doc5 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/anton/coach/coach/MemPosition.h" >
+   <View0 Top="0" Width="944" Attach="1" Height="541" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc5>
+  <Doc6 CursorPosLine="216" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="30" FileName="/home/anton/coach/coach/Formations.C" >
+   <View0 Top="0" Width="944" Attach="1" Height="541" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc6>
+  <Doc7 CursorPosLine="589" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="103" FileName="/home/anton/coach/coach/client.C" >
+   <View0 Top="0" Width="944" Attach="1" Height="541" Left="0" Focus="1" Type="KWriteView" MinMaxMode="0" />
+  </Doc7>
+ </DocsAndViews>
+</KDevPrjSession>
